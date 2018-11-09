@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netzwerkidentität</string>
+    <string name="network_identity_intro_toolbar_title">PayPal.Me-Profil</string>
+    <string name="network_identity_intro_title">Zeigen Sie Freunden und Kunden, dass Sie es sind</string>
+    <string name="network_identity_intro_title_request_money">Richten Sie Profil ein und teilen Sie Ihren PayPal.Me-Link</string>
+    <string name="network_identity_intro_subtitle">Mit einem Foto und einem PayPal.Me-Link zeigen Sie anderen, dass Sie ein PayPal-Konto haben.</string>
+    <string name="network_identity_intro_subtitle_request_money">Freunde, Familie und Kunden folgen dem Link und geben einfach den Betrag ein. Das Geld ist gewöhnlich im Handumdrehen auf Ihrem PayPal-Konto.</string>
+    <string name="network_identity_intro_button">Los geht\'s</string>
+    <string name="network_identity_add_photo_toolbar_title">PayPal.Me-Profil</string>
+    <string name="network_identity_add_photo_title">Foto hinzufügen</string>
+    <string name="network_identity_add_photo_subtitle">So wissen Ihre Freunde oder Kunden, dass sie das Geld an den richtigen Empfänger senden.</string>
+    <string name="network_identity_add_photo_skip">Weiter ohne Foto</string>
+    <string name="network_identity_add_photo_button">Foto hinzufügen</string>
+    <string name="network_identity_add_photo_bottom_sheet_title">Profilbild ändern</string>
+    <string name="network_identity_add_photo_bottom_sheet_new_photo">Neues Foto machen</string>
+    <string name="network_identity_add_photo_bottom_sheet_exiting_photo">Vorhandenes Foto wählen</string>
+    <string name="network_identity_add_photo_bottom_sheet_remove_photo">Foto entfernen</string>
+    <string name="network_identity_grab_toolbar_title">PayPal.Me-Profil</string>
+    <string name="network_identity_grab_choose_link">Link wählen</string>
+    <string name="network_identity_grab_description">Erstellen Sie einen PayPal.Me-Link und geben Sie ihn an Freunde oder Kunden weiter.</string>
+    <string name="network_identity_grab_description_onboarding">Mit dem Link bei PayPal.Me sehen andere Benutzer, dass Sie ein PayPal-Konto besitzen.</string>
+    <string name="network_identity_grab_decription_available">Dieser Link ist noch zu haben.</string>
+    <string name="network_identity_grab_description_taken">Bereits vergeben. Versuchen Sie es erneut oder sehen Sie sich die &lt;a href="%1$s"&gt;Vorschläge&lt;/a&gt; an.</string>
+    <string name="network_identity_grab_description_too_short">Dieser Link ist zu kurz.</string>
+    <string name="network_identity_grab_description_black_list">Dieser Name ist nicht verfügbar.</string>
+    <string name="network_identity_grab_title_onboarding">Ihr PayPal.Me-Profil einrichten</string>
+    <string name="network_identity_grab_subtitle_onboarding">Zeigen Sie Freunden und Kunden, die Ihnen Geld senden, dass Sie es sind.</string>
+    <string name="network_identity_grab_button_next">Weiter</string>
+    <string name="network_identity_grab_button_skip">Nicht jetzt</string>
+    <string name="network_identity_review_toolbar_title">Überprüfen Sie Ihr Profil</string>
+    <string name="network_identity_review_toolbar_title_onboarding">PayPal.Me-Profil</string>
+    <string name="network_identity_review_disclaimer">Ich stimme zu, dass mein Name, Foto und PayPal.Me-Link anderen Nutzern angezeigt werden, damit sie mich einfacher bei PayPal finden und Transaktionen mit mir ausführen können. Ich stimme den &lt;a href="%1$s"&gt;Nutzungsbedingungen&lt;/a&gt; und der &lt;a href="%2$s"&gt;Datenschutzerklärung&lt;/a&gt; zu.</string>
+    <string name="network_identity_review_button">Zustimmen und Link erstellen</string>
+    <string name="network_identity_review_button_onboarding">Zustimmen und Profil einrichten</string>
+    <string name="network_identity_web_view_title_terms_and_conditions">Bedingungen</string>
+    <string name="network_identity_web_view_title_privacy_policy">Datenschutzerklärung</string>
+    <string name="network_identity_cover_photo_reposition">Zum erneuten Positionieren ziehen</string>
+    <string name="network_identity_share_toolbar_title">PayPal.Me-Profil</string>
+    <string name="network_identity_share_button">Teilen</string>
+    <string name="network_identity_success_title">Ihr Profil wurde erstellt</string>
+    <string name="network_identity_success_title_request_money">Der Link kann geteilt werden</string>
+    <string name="network_identity_success_subtitle">In den Kontoeinstellungen können Sie Ihr Profil verwalten und weitere Informationen hinzufügen.</string>
+    <string name="network_identity_success_subtitle_secondary">Teilen Sie Ihren PayPal.Me-Link und empfangen Sie Geld von Freunden und Kunden.</string>
+    <string name="network_identity_success_pill_button">Profil verwalten</string>
+    <string name="network_identity_success_pill_button_request_money">Link teilen</string>
+    <string name="network_identity_success_done">Fertig</string>
+    <string name="network_identity_failure_title">Erneut versuchen</string>
+    <string name="network_identity_failure_message_onboarding">Ihr Profil kann derzeit nicht eingerichtet werden.</string>
+    <string name="network_identity_failure_message_existing">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es in Kürze erneut.</string>
+    <string name="network_identity_failure_try_again">Erneut versuchen</string>
+    <string name="network_identity_failure_cancel">Abbrechen</string>
+    <string name="network_identity_failure_skip">Überspringen</string>
+</resources>

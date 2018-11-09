@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_identity_intro_title">Make sure people know it\'s you they\'re paying</string>
+    <string name="network_identity_intro_subtitle">With a photo and unique link, people can see you\'ve a PayPal account.</string>
+    <string name="network_identity_grab_description_onboarding">Your PayPal.Me link lets people who want to send you money see you\'ve a PayPal account.</string>
+    <string name="network_identity_review_disclaimer">I agree that my name, photo and PayPal.Me link can be shown to others to make it easier to find me on PayPal and to send or receive money, and I agree to the &lt;a href="%1$s"&gt;Terms and Conditions&lt;/a&gt; and &lt;a href="%2$s"&gt;Privacy Statement&lt;/a&gt;.</string>
+    <string name="network_identity_web_view_title_terms_and_conditions">Terms and Conditions</string>
+    <string name="network_identity_success_subtitle">You can manage your profile and add more information to it in your account settings.</string>
+    <string name="network_identity_success_pill_button">Manage Profile</string>
+    <string name="network_identity_success_pill_button_request_money">Share Your Link</string>
+    <string name="network_identity_failure_title">Please try again</string>
+    <string name="network_identity_failure_message_onboarding">We\'re having a problem creating your profile at the moment.</string>
+    <string name="network_identity_failure_message_existing">It looks like something went wrong at our end. Please try again in a moment.</string>
+</resources>

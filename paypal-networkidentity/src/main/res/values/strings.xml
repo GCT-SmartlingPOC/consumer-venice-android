@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Network Identity</string>
+
+    <string name="network_identity_paypal_me_url">paypal.me/%s</string>
+
+    <!-- Intro -->
+    <string name="network_identity_intro_toolbar_title">PayPal.Me profile</string>
+    <string name="network_identity_intro_title">Help people know it\'s you they are paying</string>
+    <string name="network_identity_intro_title_request_money">Create a profile and share your PayPal.Me link</string>
+    <string name="network_identity_intro_subtitle">With a photo and unique link, people can see you have a PayPal account.</string>
+    <string name="network_identity_intro_subtitle_request_money">Friends, family, or customers can follow the link, enter any amount and that\'s it. The money\'s usually in your PayPal account in seconds.</string>
+    <string name="network_identity_intro_button">Get Started</string>
+
+    <!-- Add Photo -->
+    <string name="network_identity_add_photo_toolbar_title">PayPal.Me profile</string>
+    <string name="network_identity_add_photo_title">Add your photo</string>
+    <string name="network_identity_add_photo_subtitle">Help people who want to send you money be sure they\'ve found the right person.</string>
+    <string name="network_identity_add_photo_skip">Continue without a photo</string>
+    <string name="network_identity_add_photo_button">Add Photo</string>
+
+    <!-- Add Photo - Bottom Sheet -->
+    <string name="network_identity_add_photo_bottom_sheet_title">Change Profile Picture</string>
+    <string name="network_identity_add_photo_bottom_sheet_new_photo">Take new photo</string>
+    <string name="network_identity_add_photo_bottom_sheet_exiting_photo">Choose existing photo</string>
+    <string name="network_identity_add_photo_bottom_sheet_remove_photo">Remove photo</string>
+
+    <!-- Grab -->
+    <string name="network_identity_grab_toolbar_title">PayPal.Me profile</string>
+    <string name="network_identity_grab_choose_link">Choose your link</string>
+    <string name="network_identity_grab_description">Create a memorable link and share it to get paid.</string>
+    <string name="network_identity_grab_description_onboarding">Your PayPal.Me link lets people who want to send you money see you have a PayPal account.</string>
+    <string name="network_identity_grab_decription_available">It\'s available!</string>
+    <string name="network_identity_grab_description_taken">That\'s taken. Try again or see <![CDATA[<a href="%1$s">suggested links</a>]]>.</string>
+    <string name="network_identity_grab_description_too_short">That\'s too short.</string>
+    <string name="network_identity_grab_description_black_list">You can\'t use that name.</string>
+    <string name="network_identity_grab_title_onboarding">Set up your PayPal.Me profile</string>
+    <string name="network_identity_grab_subtitle_onboarding">Help your friends and customers know it\'s you they are paying.</string>
+    <string name="network_identity_grab_button_next">Next</string>
+    <string name="network_identity_grab_button_skip">Not Now</string>
+
+    <!-- Review -->
+    <string name="network_identity_review_toolbar_title">Review Your profile</string>
+    <string name="network_identity_review_toolbar_title_onboarding">PayPal.Me profile</string>
+    <string name="network_identity_review_disclaimer">I agree that my name, photo, and PayPal.Me link can be shown to others to make it easier to find me on PayPal and to transact with me, and I agree to the <![CDATA[<a href="%1$s">Terms & Conditions</a> and <a href="%2$s">Privacy Statement</a>.]]></string>
+    <string name="network_identity_review_button">Agree and Create</string>
+    <string name="network_identity_review_button_onboarding">Agree and Create Profile</string>
+    <string name="network_identity_web_view_title_terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="network_identity_web_view_title_privacy_policy">Privacy Statement</string>
+    <string name="network_identity_cover_photo_reposition">Drag to reposition</string>
+
+    <!-- Share -->
+    <string name="network_identity_share_toolbar_title">PayPal.Me profile</string>
+    <string name="network_identity_share_button">Share</string>
+
+    <!-- Success -->
+    <string name="network_identity_success_title">Your profile is live</string>
+    <string name="network_identity_success_title_request_money">Your link is ready to share</string>
+    <string name="network_identity_success_subtitle">You can manage your profile and add more info to it in your Account Settings.</string>
+    <string name="network_identity_success_subtitle_secondary">Share your PayPal.Me link and start receiving money from friends and customers.</string>
+    <string name="network_identity_success_pill_button">Manage profile</string>
+    <string name="network_identity_success_pill_button_request_money">Share your link</string>
+    <string name="network_identity_success_done">Done</string>
+
+    <!-- Failure -->
+    <string name="network_identity_failure_title">Let\'s try that again</string>
+    <string name="network_identity_failure_message_onboarding">We\'re having a problem creating your profile right now.</string>
+    <string name="network_identity_failure_message_existing">Looks like something went wrong on our end. Please try again in a moment.</string>
+    <string name="network_identity_failure_try_again">Try Again</string>
+    <string name="network_identity_failure_cancel">Cancel</string>
+    <string name="network_identity_failure_skip">Skip for now</string>
+
+</resources>

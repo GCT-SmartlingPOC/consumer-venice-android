@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Donation -->
+    <string name="donation_home_tile_title">Donate</string>
+    <string name="donation_home_tile_subtitle">Support a cause</string>
+    <string name="donate_intro_title">Support your favorite charities</string>
+    <string name="donate_intro_body">Donate to support local and global charities right from your phone. Just tap, give, and smile.</string>
+    <string name="donate_intro_next">Let\'s Go</string>
+    <string name="donate_location_turn_on_location_services">Turn on Location Services</string>
+    <string name="donate_location_body">Change your device settings so you can see nearby places that accept fast, secure payments with PayPal.</string>
+    <string name="donate_skip">Skip</string>
+    <string name="donate_next">Next</string>
+    <string name="donate_search_hint">Find a charity</string>
+    <string name="donate_tab_for_you">For You</string>
+    <string name="donate_tab_popular">Popular</string>
+    <string name="donate_see_nearby_charities_subject">See nearby charities</string>
+    <string name="donate_see_nearby_charities_text">It\'s easy to support local charities. Just enable location services to see how you can make a difference nearby.</string>
+    <string name="donate_popular_footer_text">Search for other charities you can support through PayPal Giving Fund</string>
+    <string name="donate_type_featured">FEATURED</string>
+    <string name="donate_type_all">ALL CHARITIES</string>
+    <string name="donate_type_nearby">NEARBY</string>
+    <string name="donate_type_search_results">SEARCH RESULTS</string>
+    <string name="donate_charity_ein">EIN: %1$s&#8210;%2$s</string>
+    <string name="donate_charity_number">Charity Number: %1$s</string>
+    <string name="donate_paypal_giving_fund_donation_terms_of_service">PayPal covers all transaction costs for donations made on this site, ensuring that 100%% of each gift made is available to charity. Your donation will be made to PayPal Giving Fund, an IRS&#8208;registered 501(c)(3) nonprofit (Federal Tax ID: 45&#8208;0931286). PayPal Giving Fund is the charity of record and will provide the donation receipt for your gift. All charities listed on this site are enrolled with PayPal Giving Fund, but donors who give on certain partner websites, or who donated on this site between December 23, 2016 and April 17, 2017 may also have had the ability to select charities not yet enrolled with the PayPal Giving Fund. All unenrolled charities listed on any PayPal Giving Fund site or directory are verified tax-exempt organizations that have not been identified by any relevant
+        authority as being subject to sanctions. Charities enrolled with PayPal Giving Fund will typically receive funds in their PayPal accounts within 15 to 45 days after PayPal Giving Fund’s receipt of a donation. Charities not enrolled with PayPal Giving Fund will be additionally vetted and if eligible, will receive funds via other means, such as a check, which takes longer than grants made to enrolled charities. PayPal Giving Fund holds all donations in a non-interest bearing account. PayPal Giving Fund retains ultimate discretion over all donations it receives and, in limited cases, may be required to redirect funds when a charity does not meet legal or other eligibility requirements. For more information, please see &lt;a href=&quot;%1$s&quot;&gt;PayPal Giving Fund’s Nonprofit Certification Policy&lt;/a&gt; and &lt;a href=&quot;%2$s&quot;&gt;Donation Delivery Policy&lt;/a&gt;.</string>
+    <string name="donate_policy_webview_header">PayPal Giving Fund Policy</string>
+    <string name="donate_charity_city_state">%1$s, %2$s</string>
+    <string name="donate_charity_website">Visit website</string>
+    <string name="donate_charity_bookmark">Bookmark charity</string>
+    <string name="donate_minimum">Minimum donation %1$s</string>
+    <string name="donate_description">Donation via PayPal Giving Fund for %1$s</string>
+    <string name="donate_description_global">Donation for %1$s</string>
+    <string name="donate_webview_header_default">Donate with PayPal Giving Fund</string>
+    <string name="donate_webview_header_global">Donate with PayPal</string>
+    <string name="donate_done">Done</string>
+    <string name="donate_more">Donate Again</string>
+    <string name="donate_ok">OK</string>
+    <string name="donate_success_title">You donated %1$s</string>
+    <string name="donate_success_title_2">You donated %1$s to %2$s</string>
+    <string name="donate_success_title_3">Thanks for your donation</string>
+    <string name="donate_success_details">Your generosity will help further a cause you care about.</string>
+    <string name="donate_success_share_this_cause">Share This Cause</string>
+    <string name="donate_success_share_title">Donate with PayPal Giving Fund</string>
+    <string name="donate_success_share_text">I donated to support %1$s. You can, too. Together we can make a difference. %2$s</string>
+    <string name="donate_success_view_activity">See your donation in Activity</string>
+    <string name="donate_pending_title">Your donation is pending</string>
+    <string name="donate_pending_details">Regulations require us to review this payment. We\'ll update you on the status of your donation within 24&#8211;72 hours.</string>
+    <string name="donate_pending_view_activity">View transaction in your Activity</string>
+    <string name="donate_empty_header">Check back soon</string>
+    <string name="donate_empty_text">We\'re adding new charities all the time.</string>
+    <string name="donate_error_message">Looks like something went wrong on our end. Please try again. </string>
+    <string name="donate_alert_dialog_title">Are you sure?</string>
+    <string name="donate_alert_dialog_text"> Do you want to go back? </string>
+    <string name="donate_alert_dialog_invalid_link_title">Good cause, bad link</string>
+    <string name="donate_alert_dialog_invalid_link_text">It looks like someone shared a charity with you, but copied the web address wrong. Try searching for the charity.</string>
+    <string name="donate_try_again">Let\’s try that again</string>
+    <string name="accessibility_donate_webview_leave">Leave donation site</string>
+    <string name="accessibility_donate_clear">Clear</string>
+    <string name="url_donation_donation_delivery_policy" translatable="false">https://www.paypal.com/givingfund/donation-delivery</string>
+    <string name="url_donation_paypal_giving_fund_nonprofit_certification_policy" translatable="false">https://www.paypal.com/givingfund/nonprofit-certification</string>
+    <string name="url_donation_share" translatable="false">https://www.paypal.com/fundraiser/charity/%1$s</string>
+    <string name="donate_charity_list_error_header">Unable to load</string>
+    <string name="donate_charity_list_error">Looks like something went wrong on our end. Please try again in a moment.</string>
+</resources>

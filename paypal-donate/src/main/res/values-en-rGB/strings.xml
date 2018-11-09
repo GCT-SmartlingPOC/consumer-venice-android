@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donation_home_tile_title">Donate </string>
+    <string name="donation_home_tile_subtitle">Support a Cause</string>
+    <string name="donate_intro_title">Support your favourite charities</string>
+    <string name="donate_intro_body">Donate to support local and global charities right from your phone. Just tap, give and smile.</string>
+    <string name="donate_intro_next">Get Started</string>
+    <string name="donate_location_body">Change your device settings so you can see nearby places that accept faster, more secure payments with PayPal.</string>
+    <string name="donate_tab_for_you">For you</string>
+    <string name="donate_paypal_giving_fund_donation_terms_of_service">PayPal helps your gifts do more good. Your donation will be made to PayPal Giving Fund UK, a registered charity (No. 1110538). PayPal Giving Fund will email you a donation receipt with a link to add Gift Aid. Thanks to PayPal’s support, PayPal Giving Fund passes on 100%% of donations it collects on this site to worthy causes. Charities should enrol with PayPal Giving Fund to receive donations we collect to benefit them, which are paid out on a monthly basis. PayPal Giving Fund retains ultimate discretion over all donations it receives and, in rare cases, may redirect funds when a charity does not meet legal or other eligibility requirements. For more information, please see PayPal Giving Fund’s Charity Certification Policy and Undeliverable Donation Policy. For more information, please see &lt;a href="%1$s"&gt;PayPal Giving Fund’s Charity Certification Policy&lt;/a&gt; and &lt;a href="%2$s"&gt;Donation Delivery Policy&lt;/a&gt;.</string>
+    <string name="donate_charity_website">Visit Website</string>
+    <string name="donate_success_title">You\'ve donated %1$s</string>
+    <string name="donate_success_details">Your generosity will help a cause you care about.</string>
+    <string name="donate_pending_details">Regulations require us to review this payment. We\'ll update you on the status of your donation within 24 to 72 hours.</string>
+    <string name="donate_error_message">Something seems to have gone wrong. Please try again. </string>
+    <string name="donate_alert_dialog_invalid_link_text">It looks like someone shared a charity with you, but copied the web address wrongly. Try searching for the charity.</string>
+    <string name="donate_try_again">Let\'s try that again</string>
+    <string name="donate_charity_list_error">Something seems to have gone wrong. Please try again in a moment.</string>
+</resources>

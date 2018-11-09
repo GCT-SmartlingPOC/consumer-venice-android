@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donation_home_tile_title">Spenden</string>
+    <string name="donation_home_tile_subtitle">Spenden Sie für einen guten Zweck.</string>
+    <string name="donate_intro_title">Für einen guten Zweck spenden</string>
+    <string name="donate_intro_body">Unterstützen Sie soziale Projekte weltweit direkt von Ihrem Handy aus. Einfach tippen, geben und Gutes bewirken.</string>
+    <string name="donate_intro_next">Los geht\'s</string>
+    <string name="donate_location_turn_on_location_services">Ortungsdienste aktivieren</string>
+    <string name="donate_location_body">Ändern Sie die Geräteeinstellungen, um sich Orte in der Nähe anzeigen zu lassen, an denen Sie mit PayPal zahlen können.</string>
+    <string name="donate_skip">Überspringen</string>
+    <string name="donate_next">Weiter</string>
+    <string name="donate_search_hint">Gemeinnützige Organisation suchen</string>
+    <string name="donate_tab_for_you">Für Sie</string>
+    <string name="donate_tab_popular">Beliebt</string>
+    <string name="donate_see_nearby_charities_subject">Gemeinnützige Organisationen anzeigen</string>
+    <string name="donate_see_nearby_charities_text">Es ist einfach, gemeinnützige Organisationen in Ihrer Umgebung zu unterstützen. Aktivieren Sie einfach die Ortungsdienste, um sich gemeinnützige Organisationen in der Nähe anzeigen zu lassen.</string>
+    <string name="donate_popular_footer_text">Andere gemeinnützige Organisationen bei PayPal Giving Fund suchen</string>
+    <string name="donate_type_featured">Eine Auswahl</string>
+    <string name="donate_type_all">Alle gemeinnützigen Organisationen</string>
+    <string name="donate_type_nearby">In der Nähe</string>
+    <string name="donate_type_search_results">Suchergebnisse</string>
+    <string name="donate_charity_number">Nummer der gemeinnützigen Organisation: %1$s</string>
+    <string name="donate_paypal_giving_fund_donation_terms_of_service">PayPal übernimmt alle Transaktionskosten für Spenden auf dieser Website. Damit jede Spende zu 100%% einer gemeinnützigen Organisation zugute kommt. Ihre Spende geht an PayPal Giving Fund, eine beim IRS eingetragene gemeinnützige 501(c)(3)-Organisation (Steuernummer: 45-0931286). PayPal Giving Fund ist die eingetragene gemeinnützige Organisation und stellt den Spendenbeleg aus. Alle gemeinnützigen Organisationen auf dieser Website sind bei PayPal Giving Fund registriert. Personen, die auf Websites von Partnern Geld spenden oder zwischen dem 23. Dezember 2016 und dem 17. April 2017 gespendet haben, konnten sich auch für gemeinnützige Organisationen entscheiden, die noch nicht bei PayPal Giving Fund registriert waren. Bei allen gemeinnützigen Organisationen, die auf einer Website oder in einem Verzeichnis von PayPal Giving Fund als \"Nicht registriert\" aufgeführt sind, handelt es sich um geprüfte, von der Steuer befreite Organisationen, die von keiner zuständigen Behörde als \"Sanktioniert\" eingestuft wurden. Gemeinnützige Organisationen, die bei PayPal Giving Fund registriert sind, erhalten die Spenden in der Regel innerhalb von 15 bis 45 Tagen nach dem Eingang einer Spende bei PayPal Giving Fund auf ihr PayPal-Konto. Gemeinnützige Organisationen, die nicht bei PayPal Giving Fund registriert sind, werden zusätzlich geprüft. Erfüllen sie alle Voraussetzungen, erhalten sie ihr Geld in der Regel auf anderem Wege, z.B. per Scheck. Eine solche finanzielle Zuwendung dauert länger als eine Spende an eine registrierte gemeinnützige Organisation. PayPal Giving Fund verwaltet alle Spenden auf einem unverzinslichen Konto. Alle Spenden unterliegen dem Ermessen von PayPal Giving Fund und es kann in bestimmten Fällen erforderlich sein, Geld umzuleiten, wenn eine gemeinnützige Organisation rechtliche oder sonstige Voraussetzungen nicht erfüllt. Weitere Informationen finden Sie in der &lt;a href="%1$s"&gt;Zertifizierungsrichtlinie für gemeinnützige Organisation von PayPal Giving Fund&lt;/a&gt; und in der &lt;a href="%2$s"&gt;Richtlinie zur Spendenausschüttung&lt;/a&gt;.</string>
+    <string name="donate_policy_webview_header">PayPal Giving Fund – Richtlinie</string>
+    <string name="donate_charity_website">Website aufrufen</string>
+    <string name="donate_charity_bookmark">Lesezeichen setzen</string>
+    <string name="donate_minimum">Mindestbetrag für eine Spende: %1$s</string>
+    <string name="donate_description">Spenden mit PayPal Giving Fund für %1$s</string>
+    <string name="donate_description_global">Spende für %1$s</string>
+    <string name="donate_webview_header_default">Spenden mit PayPal Giving Fund</string>
+    <string name="donate_webview_header_global">Spenden mit PayPal</string>
+    <string name="donate_done">Fertig</string>
+    <string name="donate_more">Mehr spenden</string>
+    <string name="donate_success_title">Sie haben %1$s gespendet.</string>
+    <string name="donate_success_title_2">Sie haben %2$s %1$s gespendet.</string>
+    <string name="donate_success_title_3">Vielen Dank für Ihre Spende</string>
+    <string name="donate_success_details">Ihre Spende hilft einer guten Sache, die Ihnen am Herzen liegt.</string>
+    <string name="donate_success_share_this_cause">Jetzt teilen</string>
+    <string name="donate_success_share_title">Spenden mit PayPal Giving Fund</string>
+    <string name="donate_success_share_text">Ich habe %1$s mit einer Spende unterstützt. Ihr könnt auch helfen. Gemeinsam können wir etwas bewirken. %2$s</string>
+    <string name="donate_success_view_activity">Spende in Aktivitäten anzeigen</string>
+    <string name="donate_pending_title">Ihre Spende ist offen</string>
+    <string name="donate_pending_details">Wir sind gesetzlich verpflichtet, diese Zahlung zu überprüfen. Wir teilen Ihnen den Status Ihrer Spende innerhalb von 24–72 Stunden mit.</string>
+    <string name="donate_pending_view_activity">Transaktion in Aktivitäten anzeigen</string>
+    <string name="donate_empty_header">Schauen Sie demnächst noch einmal nach.</string>
+    <string name="donate_empty_text">Wir fügen ständig neue gemeinnützige Organisationen hinzu.</string>
+    <string name="donate_error_message">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es erneut. </string>
+    <string name="donate_alert_dialog_title">Sind Sie sicher\?</string>
+    <string name="donate_alert_dialog_text"> Wollen Sie zurück\? </string>
+    <string name="donate_alert_dialog_invalid_link_title">Der Link ist leider falsch</string>
+    <string name="donate_alert_dialog_invalid_link_text">Sie haben anscheinend einen Link erhalten, der nicht stimmt. Suchen Sie am besten einfach nach der gemeinnützigen Organisation.</string>
+    <string name="donate_try_again">Erneut versuchen</string>
+    <string name="accessibility_donate_webview_leave">Spenden-Website verlassen</string>
+    <string name="accessibility_donate_clear">Löschen</string>
+    <string name="donate_charity_list_error_header">Laden nicht möglich</string>
+    <string name="donate_charity_list_error">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es in Kürze erneut.</string>
+</resources>

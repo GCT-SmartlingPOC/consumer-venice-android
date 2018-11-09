@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сетевая идентификация</string>
+    <string name="network_identity_intro_toolbar_title">Страница PayPal.Me</string>
+    <string name="network_identity_intro_title">Помогите пользователям убедиться в том, что они платят именно вам</string>
+    <string name="network_identity_intro_title_request_money">Создайте страницу PayPal.Me и поделитесь ссылкой на нее</string>
+    <string name="network_identity_intro_subtitle">Увидев вашу фотографию и уникальную ссылку, люди смогут узнать о том, что у вас есть счет PayPal.</string>
+    <string name="network_identity_intro_subtitle_request_money">Друзья, родственники или клиенты могут перейти по этой ссылке, ввести любую сумму, и платеж будет выполнен. Платеж поступит на ваш счет PayPal в считанные секунды.</string>
+    <string name="network_identity_intro_button">Начать работу</string>
+    <string name="network_identity_add_photo_toolbar_title">Страница PayPal.Me</string>
+    <string name="network_identity_add_photo_title">Добавить фотографию</string>
+    <string name="network_identity_add_photo_subtitle">Помогите людям, которые хотят отправить вам средства, убедиться в том, что они нашли соответствующего получателя.</string>
+    <string name="network_identity_add_photo_skip">Продолжить без загрузки фотографии</string>
+    <string name="network_identity_add_photo_button">Добавить фото</string>
+    <string name="network_identity_add_photo_bottom_sheet_title">Изменить фото в профиле</string>
+    <string name="network_identity_add_photo_bottom_sheet_new_photo">Сделать новое фото</string>
+    <string name="network_identity_add_photo_bottom_sheet_exiting_photo">Выбрать из ранее сохраненных фотографий</string>
+    <string name="network_identity_add_photo_bottom_sheet_remove_photo">Удалить фотографию</string>
+    <string name="network_identity_grab_toolbar_title">Страница PayPal.Me</string>
+    <string name="network_identity_grab_choose_link">Создайте свою страницу</string>
+    <string name="network_identity_grab_description">Создайте легко запоминающуюся ссылку и поделитесь ею, чтобы получать платежи.</string>
+    <string name="network_identity_grab_description_onboarding">Ваша страница PayPal.Me помогает клиентам, которые хотят отправить вам средства, узнать, что у вас есть счет PayPal.</string>
+    <string name="network_identity_grab_decription_available">Имя свободно!</string>
+    <string name="network_identity_grab_description_taken">Это имя уже занято. Повторите попытку или просмотрите &lt;a href="%1$s"&gt;предложенные ссылки&lt;/a&gt;.</string>
+    <string name="network_identity_grab_description_too_short">Слишком короткое имя.</string>
+    <string name="network_identity_grab_description_black_list">Вы не можете использовать это имя.</string>
+    <string name="network_identity_grab_title_onboarding">Создайте свою страницу PayPal.Me</string>
+    <string name="network_identity_grab_subtitle_onboarding">Помогите своим друзьям и клиентам убедиться в том, что они платят именно вам.</string>
+    <string name="network_identity_grab_button_next">Далее</string>
+    <string name="network_identity_grab_button_skip">Не сейчас</string>
+    <string name="network_identity_review_toolbar_title">Просмотр профиля</string>
+    <string name="network_identity_review_toolbar_title_onboarding">Страница PayPal.Me</string>
+    <string name="network_identity_review_disclaimer">Я соглашаюсь с тем, что мое имя, фотография и страница PayPal.Me будут видны пользователям, чтобы им было легче найти меня в системе PayPal и совершить операцию. Я также принимаю &lt;a href="%1$s"&gt;Положения и условия&lt;/a&gt; и &lt;a href="%2$s"&gt;Политику конфиденциальности&lt;/a&gt;.</string>
+    <string name="network_identity_review_button">Подтвердить и создать</string>
+    <string name="network_identity_review_button_onboarding">Согласиться и создать страницу</string>
+    <string name="network_identity_web_view_title_terms_and_conditions">Условия</string>
+    <string name="network_identity_web_view_title_privacy_policy">Положение о конфиденциальности</string>
+    <string name="network_identity_cover_photo_reposition">Перетащите, чтобы изменить местоположение</string>
+    <string name="network_identity_share_toolbar_title">Страница PayPal.Me</string>
+    <string name="network_identity_share_button">Разделить</string>
+    <string name="network_identity_success_title">Ваш страница активирована</string>
+    <string name="network_identity_success_title_request_money">Ваша страница готова</string>
+    <string name="network_identity_success_subtitle">Вы можете управлять своей страницей и добавлять новые сведения в настройках счета.</string>
+    <string name="network_identity_success_subtitle_secondary">Поделитесь ссылкой на свою страницу PayPal.Me и начните получать денежные средства от друзей и клиентов.</string>
+    <string name="network_identity_success_pill_button">Управление профилем</string>
+    <string name="network_identity_success_pill_button_request_money">Поделитесь ссылкой</string>
+    <string name="network_identity_success_done">Готово</string>
+    <string name="network_identity_failure_title">Повторите попытку</string>
+    <string name="network_identity_failure_message_onboarding">В настоящий момент при создании вашей страницы у нас возникла проблема.</string>
+    <string name="network_identity_failure_message_existing">Похоже, возникла проблема с нашей стороны. Повторите попытку через минуту.</string>
+    <string name="network_identity_failure_try_again">Повторите попытку</string>
+    <string name="network_identity_failure_cancel">Отмена</string>
+    <string name="network_identity_failure_skip">Пропустить</string>
+</resources>

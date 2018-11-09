@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">네트워크 ID</string>
+    <string name="network_identity_intro_toolbar_title">PayPal.Me 프로필</string>
+    <string name="network_identity_intro_title">사람들이 고객님을 알아보고 결제할 수 있도록 도와주세요.</string>
+    <string name="network_identity_intro_title_request_money">프로필을 생성하고 PayPal.Me 링크 공유하기</string>
+    <string name="network_identity_intro_subtitle">사진과 고유 링크로 사람들에게 내 PayPal 계정을 알릴 수 있습니다.</string>
+    <string name="network_identity_intro_subtitle_request_money">구매자는 링크를 따라가 금액을 입력하기만 하면 됩니다. 그러면 보통 몇 초 내로 결제대금이 PayPal 계정에 입금됩니다.</string>
+    <string name="network_identity_intro_button">시작하기</string>
+    <string name="network_identity_add_photo_toolbar_title">PayPal.Me 프로필</string>
+    <string name="network_identity_add_photo_title">사진 추가</string>
+    <string name="network_identity_add_photo_subtitle">소비자가 고객님을 제대로 알아보고 결제대금을 보낼 수 있도록 도와주세요.</string>
+    <string name="network_identity_add_photo_skip">사진 추가하지 않고 계속하기</string>
+    <string name="network_identity_add_photo_button">사진 추가</string>
+    <string name="network_identity_add_photo_bottom_sheet_title">프로필 사진 변경</string>
+    <string name="network_identity_add_photo_bottom_sheet_new_photo">사진 새로 찍기</string>
+    <string name="network_identity_add_photo_bottom_sheet_exiting_photo">기존 사진 선택</string>
+    <string name="network_identity_add_photo_bottom_sheet_remove_photo">사진 삭제</string>
+    <string name="network_identity_grab_toolbar_title">PayPal.Me 프로필</string>
+    <string name="network_identity_grab_choose_link">링크 선택</string>
+    <string name="network_identity_grab_description">기억하기 쉬운 링크를 만들고 공유하여 결제대금을 받으세요.</string>
+    <string name="network_identity_grab_description_onboarding">PayPal.Me 링크를 이용해 결제대금을 보내려는 소비자에게 고객님이 PayPal 계정이 있음을 알려줄 수 있습니다.</string>
+    <string name="network_identity_grab_decription_available">사용 가능합니다!</string>
+    <string name="network_identity_grab_description_taken">이미 사용되고 있는 링크입니다. 다시 시도하거나 &lt;a href="%1$s"&gt;추천 링크&lt;/a&gt;를 살펴보세요.</string>
+    <string name="network_identity_grab_description_too_short">너무 짧습니다.</string>
+    <string name="network_identity_grab_description_black_list">해당 이름은 사용할 수 없습니다.</string>
+    <string name="network_identity_grab_title_onboarding">PayPal.Me 프로필 설정</string>
+    <string name="network_identity_grab_subtitle_onboarding">구매자가 고객님을 알아보고 결제할 수 있도록 도와주세요.</string>
+    <string name="network_identity_grab_button_next">다음</string>
+    <string name="network_identity_grab_button_skip">나중에</string>
+    <string name="network_identity_review_toolbar_title">프로필 검토</string>
+    <string name="network_identity_review_toolbar_title_onboarding">PayPal.Me 프로필</string>
+    <string name="network_identity_review_disclaimer">내 이름, 사진, PayPal.Me 링크를 다른 사용자에게 표시하여 PayPal에서 나를 쉽게 찾고 거래할 수 있도록 하는 데 동의합니다. 또한 &lt;a href="%1$s"&gt;이용약관&lt;/a&gt; 및 &lt;a href="%2$s"&gt;개인정보 취급방침&lt;/a&gt;에 동의합니다.</string>
+    <string name="network_identity_review_button">동의 및 생성</string>
+    <string name="network_identity_review_button_onboarding">동의 및 프로필 생성</string>
+    <string name="network_identity_web_view_title_terms_and_conditions">이용약관</string>
+    <string name="network_identity_web_view_title_privacy_policy">개인정보 취급방침</string>
+    <string name="network_identity_cover_photo_reposition">끌어서 위치 재설정하기</string>
+    <string name="network_identity_share_toolbar_title">PayPal.Me 프로필</string>
+    <string name="network_identity_share_button">공유</string>
+    <string name="network_identity_success_title">프로필이 활성 상태입니다.</string>
+    <string name="network_identity_success_title_request_money">링크를 공유할 준비가 되었습니다.</string>
+    <string name="network_identity_success_subtitle">계정 설정에서 프로필을 관리하고 정보를 추가할 수 있습니다.</string>
+    <string name="network_identity_success_subtitle_secondary">PayPal.Me 링크를 공유하여 구매자에게 결제대금을 받으세요.</string>
+    <string name="network_identity_success_pill_button">프로필 관리</string>
+    <string name="network_identity_success_pill_button_request_money">내 링크 공유하기</string>
+    <string name="network_identity_success_done">완료</string>
+    <string name="network_identity_failure_title">다시 시도 필요</string>
+    <string name="network_identity_failure_message_onboarding">프로필을 생성하는 도중 문제가 발생했습니다.</string>
+    <string name="network_identity_failure_message_existing">저희 쪽에 장애가 발생한 것 같습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="network_identity_failure_try_again">다시 시도</string>
+    <string name="network_identity_failure_cancel">취소</string>
+    <string name="network_identity_failure_skip">우선 건너뛰기</string>
+</resources>
