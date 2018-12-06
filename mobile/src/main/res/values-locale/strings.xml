@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="interstitial_message">We are loading your data…</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="version_code_label">VERSION:</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="account_profile">Personal Info</string>
+    <string name="alert_dialog_default_positive">OK</string>
+    <string name="alert_dialog_default_negative">Cancel</string>
+    <string name="error_no_connection">No Connection</string>
+    <string name="payment_account_fmt_redacted" formatted="true">•••• %1$s</string>
+    <string name="settings_unregister_fingerprint_title">Please Confirm</string>
+    <!-- Authenticator : remove_fp_title -->
+    <string name="settings_unregister_fingerprint_message">Do you wish to disable your PayPal fingerprint login ?</string>
+    <!-- Authenticator : remove_fp_confirm -->
+    <string name="settings_unregister_fingerprint_yes">Yes</string>
+    <!-- Authenticator : yes_button -->
+    <string name="settings_unregister_fingerprint_cancel">Cancel</string>
+    <!-- Authenticator : cancel_button -->
+
+    <!-- Select funding source -->
+    <string name="select_funding_source_exchange_rate">(%1$s = %1$s)</string>
+    <string name="select_funding_source_policy">If there\'s an issue with your preferred payment method, we\'ll try the remaining payment methods linked to your PayPal account. &lt;a href=\"%1$s\"&gt;View PayPal policies.&lt;/a&gt;</string>
+    <string name="select_funding_source_option_available">Available</string>
+
+    <!-- App Config-->
+    <string name="empty_list">No Values to display</string>
+    <string name="app_config_reset_button">Reset</string>
+    <string name="app_config_edit_button">Edit</string>
+    <string name="change_endpoint_success_dialog_title">Endpoint changed successfully</string>
+    <string name="app_config_success_dialog_title">App config changed successfully</string>
+    <string name="enable_login_from_home_success_dialog_title">Enable login from home success</string>
+    <string name="app_config_search_placeholder">Search</string>
+
+    <!-- End Points-->
+    <string name="end_points_search_placeholder">Search</string>
+
+    <!-- Accessibility strings -->
+    <string name="accessibility_close">Cancel</string>
+    <string name="accessibility_progress_indicator">In Progress</string>
+    <string name="accessibility_profile_image">Your Profile picture</string>
+    <string name="list_item_details">List item details</string>
+    <string name="accessibility_numberpad">Number pad</string>
+    <string name="accessibility_eci_fi_selector">Change default payment method</string>
+    <string name="accessibility_eci_webview_leave">Leave merchant site</string>
+    <string name="accessibility_home">Home</string>
+    <string name="accessibility_home_photo">Your photo</string>
+    <string name="accessibility_home_settings_gear">Profile</string>
+    <string name="accessibility_home_message_center_gear">Message Centre</string>
+    <string name="accessibility_home_nfc_icon">NFC</string>
+    <string name="accessibility_profile">Profile</string>
+    <string name="accessibility_profile_photo">Your photo</string>
+    <string name="accessibility_link_loyalty_card">Linka loyalty card</string>
+    <string name="accessibility_swipe_funding_source">Use two-finger swipe to change your funding source</string>
+    <string name="accessibility_activity_clear_filter">Clear filter</string>
+    <string name="accessibility_toolbar_back">Back</string>
+    <string name="accessibility_delete_profile">Remove</string>
+    <string name="accessibility_profile_change_photo">Your photo</string>
+    <string name="accessibility_number_pad_double_zero">Double Zero</string>
+    <string name="accessibility_log_out">Log Out</string>
+    <string name="accessibility_widget_send_money">Send money with PayPal</string>
+    <string name="accessibility_widget_request_money">Request money with PayPal</string>
+    <string name="accessibility_widget_in_store">Pay with PayPal in shops</string>
+    <string name="accessibility_widget_order_ahead">Pay with PayPal Order Ahead</string>
+    <string name="accessibility_widget_activity">PayPal Activity</string>
+    <string name="accessibility_identity_profile_menu">Please confirm your identity</string>
+    <string name="accessibility_atm_finder_title">Find an ATM</string>
+    <string name="accessibility_distance_to">%1$s away</string>
+    <string name="accessibility_found_atms">We found ATMs nearby</string>
+    <string name="accessibility_card_security">Enter the CVV</string>
+    <string name="accessibility_home_settings_gear_with_compliance">Account with %1$s notifications</string>
+    <string name="accessibility_home_message_center_gear_with_notification_tasks">Message centre with %1$s notifications</string>
+
+    <string name="fragment_profile_list_identity">Identity</string>
+    <string name="fragment_profile_list_banks_cards">Bank accounts and cards</string>
+    <string name="fragment_profile_list_direct_deposit">Direct Deposit</string>
+    <string name="fragment_profile_list_payment_preferences">Payment preferences</string>
+    <string name="fragment_profile_list_payments_and_transfers">Payments and transfers</string>
+    <string name="fragment_profile_list_paypal_debit_card">PayPal Debit Card</string>
+    <string name="fragment_profile_list_liftoff_enrollment">Get the %1$s</string>
+    <string name="fragment_profile_list_liftoff_lite_enrollment">PayPal Cash Card</string>
+    <string name="fragment_profile_list_personal_info">Personal Info</string>
+    <string name="fragment_profile_list_loyalty_cards">Loyalty Cards</string>
+    <string name="fragment_profile_list_login_security">Login and Security</string>
+    <string name="fragment_profile_list_tap_and_pay">Tap &amp; Pay</string>
+    <string name="fragment_profile_list_notifications">Notifications</string>
+    <string name="fragment_profile_list_personalization_preferences">Interest-based marketing</string>
+    <string name="fragment_profile_list_marketing_preferences">Marketing Preferences</string>
+    <string name="fragment_profile_list_paypal_personalization_preferences">PayPal Personalisation Preferences</string>
+    <string name="fragment_profile_list_other_personalization_preferences">Other Personalisation Preferences</string>
+    <string name="fragment_profile_list_help">Help</string>
+    <string name="fragment_profile_list_legal">Legal</string>
+    <string name="fragment_profile_list_logout">Log Out</string>
+    <string name="fragment_profile_list_app_settings">App Settings</string>
+
+    <!-- Account profile settings-->
+    <string name="account_profile_photo_edit">Change Photo</string>
+    <string name="account_profile_item_unconfirmed">UNCONFIRMED</string>
+    <string name="account_profile_email_desc">Let your friends and family send you money to any of your email addresses.</string>
+    <string name="account_profile_email">Email</string>
+    <string name="account_profile_email_unconfirmed">Unconfirmed Email</string>
+    <string name="account_profile_email_title">Email Addresses</string>
+    <string name="account_profile_email_primary">Primary Email</string>
+    <string name="account_profile_email_primary_unconfirmed">Unconfirmed Primary Email</string>
+    <string name="account_profile_email_add_email">Add an Email Address</string>
+    <string name="account_profile_email_enter_email">Enter your Email Address</string>
+    <string name="account_profile_email_edit_email">Edit Email Address</string>
+    <string name="account_profile_email_delete">Are you sure you want to remove %1$s?</string>
+    <string name="account_profile_email_confirm_title">Confirm your email address</string>
+    <string name="account_profile_email_confirm_content">We\'ve sent your confirmation to %1$s.</string>
+    <string name="account_profile_email_confirm_ok">OK</string>
+    <string name="account_profile_phone_primary_mobile">Primary Mobile Number</string>
+    <string name="account_profile_phone_mobile">Mobile Number</string>
+    <string name="account_profile_phone_primary_home">Primary Home Number</string>
+    <string name="account_profile_phone_home">Home Number</string>
+    <string name="account_profile_phone_primary_work">Primary Work Number</string>
+    <string name="account_profile_phone_work">Work Number</string>
+    <string name="account_profile_phone_primary_custom_service">Primary Customer Service Number</string>
+    <string name="account_profile_phone_custom_service">Customer Service Number</string>
+    <string name="account_profile_phone_title">Phone Numbers</string>
+    <string name="account_profile_phone_desc">Manage your communication preferences.</string>
+    <string name="account_profile_phone_add_title">Add Phone</string>
+    <string name="account_profile_phone_enter">Enter your Phone Number</string>
+    <string name="account_profile_phone_edit_title">Edit Phone Number</string>
+    <string name="account_profile_phone_type">Type</string>
+    <string name="account_profile_phone_type_home">Home</string>
+    <string name="account_profile_phone_type_mobile">Mobile</string>
+    <string name="account_profile_phone_type_work">Work</string>
+    <string name="account_profile_phone_type_cannot_change">Cannot change to that type.</string>
+    <string name="account_profile_phone_delete">Are you sure you want to remove this number?</string>
+    <string name="account_profile_phone_tcpa"><![CDATA[You confirm that this is your number and agree that PayPal may contact you as described in the <a href=\"%1$s\">User Agreement</a> and <a href=\"%2$s\">Privacy Policy</a>.]]></string>
+    <string name="account_profile_phone_add_dialog_positive">Yes, Add</string>
+    <string name="account_profile_phone_edit_dialog_positive">Yes, Change</string>
+    <string name="account_profile_item_delete_confirm">Yes</string>
+    <string name="account_profile_item_delete_cancel">No</string>
+    <string name="account_profile_set_preferred_item">Set Preferred</string>
+    <string name="account_profile_remove_item">Remove</string>
+    <string name="account_profile_add_edit_error">Can you check that again?</string>
+    <string name="push_notifications_settings_activity_subtitle">Stay on top of your account. Bear in mind, we\'ll still send you notifications for security reasons or if we need to contact you about your account.</string>
+    <string name="push_notifications_settings_activity_heading">We\'ll notify you when you...</string>
+    <string name="push_notifications_settings_balance_threshold_heading">When balance falls below</string>
+    <string name="push_notifications_settings_generic_marketing_heading">You\'re receiving...</string>
+    <string name="push_notifications_settings_local_prefs_heading">When I get a notification...</string>
+    <string name="push_notifications_settings_dialog_title">Let\'s make sure we can get in touch</string>
+    <string name="push_notifications_settings_dialog_content">We\'ll send you a push notification if there\'s an issue with your account or add your email address to allow you to update your profile.</string>
+    <string name="security_settings_title">Security Settings</string>
+
+    <string name="account_profile_address">Address</string>
+    <string name="account_profile_address_title">Addresses</string>
+    <string name="account_profile_address_primary">Primary Address</string>
+    <string name="account_profile_address_desc">Add as many addresses as you like. They\'re places you most often have things sent to.</string>
+    <string name="account_profile_address_delete">Are you sure you want to remove this address?</string>
+    <string name="account_profile_item_set_as_preferred">Set as preferred</string>
+    <string name="account_profile_item_undo_set_as_preferred">Undo</string>
+
+    <string name="account_profile_photo_take">Take new photo</string>
+
+    <string name="account_profile_photo_crop_btn">Crop</string>
+    <string name="account_profile_photo_rotate_btn">Rotate</string>
+
+    <string name="account_profile_paypalme">Get your PayPal.Me link</string>
+    <string name="account_profile_my_paypalme" translatable="false">paypal.me/%1$s</string>
+    <string-array name="account_profile_ppme_list_item_labels">
+        <item>@string/account_profile_paypalme_share_link</item>
+        <item>@string/account_profile_paypalme_manage_page</item>
+        <item>@string/account_profile_paypalme_see_page</item>
+    </string-array>
+    <string name="account_profile_paypalme_share_link">Share your PayPal.Me Link</string>
+    <string name="account_profile_paypalme_manage_page">Manage or edit your page</string>
+    <string name="account_profile_paypalme_see_page">See Your Page</string>
+
+
+    <!--Account profile phone TCPA-->
+    <string name="account_profile_phone_tcpa_desc">If this is your mobile number, you give us permission to contact you about your PayPal branded accounts using automated calls or texts to: service your accounts, investigate fraud, or collect a debt, but not for telemarketing. If you don\'t want to receive automated calls or texts, you can change your preferences by deselecting below:</string>
+    <string name="account_profile_phone_tcpa_automated_calls">Contact me using automated calls.</string>
+    <string name="account_profile_phone_tcpa_automated_calls_desc">We may still call you using other means if we need to speak with you.</string>
+    <string name="account_profile_phone_tcpa_text_msg">Contact me via text message.</string>
+    <string name="account_profile_phone_tcpa_text_msg_desc">Any text alerts you previously selected to manage your account will stop</string>
+    <string name="primary_mobile_no">This is your primary %1$s number.</string>
+    <string name="confirm_phone_no">Confirm Phone Number</string>
+
+
+    <!-- In Store Pay Funding Mix -->
+    <string name="instore_pay_select_funding_mix_bank_details">••••%1$s</string>
+
+    <!-- POS PIN setting -->
+    <string name="instorepay_pos_pin_set_operation_error">
+        <![CDATA[Something went wrong when trying to change your Tap & Pay PIN. Please try again.]]></string>
+    <string name="instorepay_change_pos_pin_success">You\'ve changed your in-store PIN</string>
+
+    <!-- Push Notification  -->
+    <string name="gcm_send_money_text" formatted="false">You\'ve sent %1$s to %1$s</string>
+    <string name="gcm_request_money_text" formatted="false">%1$s requested %1$s from you</string>
+    <string name="gcm_purchase_text" formatted="false">You paid %1$s to %1$s</string>
+    <string name="gcm_purchase_offer_text" formatted="false">You\'ve saved %1$s on a %1$s purchase at %1$s</string>
+    <string name="gcm_receive_money_text" formatted="false">You received %1$s from %1$s</string>
+    <string name="gcm_ato_title" formatted="false">PayPal Security</string>
+    <string name="gcm_ato_purchase_text" formatted="false">Are you making a %1$s purchase at %1$s right now?</string>
+    <string name="gcm_ato_login_text" formatted="false">Are you trying to log in to PayPal from another device right now?</string>
+    <string name="gcm_google_pay_temporary_pin">We\'ve set an in-store PIN for you to use with Google Pay.Change it now in the app.</string>
+    <string name="gcm_google_pay_existing_pin">Some places may ask for your in-store PIN when you use PayPal with Google Pay. Change it in the app.</string>
+    <string name="gcm_invoice_received">%1$s sent you an invoice.</string>
+    <string name="gcm_invoice_reminder">%1$s sent you a reminder to pay your invoice.</string>
+    <string name="gcm_invoice_updated">%1$s sent you an updated invoice.</string>
+    <string name="gcm_goals_direct_deposit_press_for_more_text">Press for more</string>
+    <string name="gcm_goals_direct_deposit_received_text">Direct deposit received from %1$s</string>
+    <string name="gcm_paypal_compliance_non_bank_cip_verify_success_title">Thanks for confirming your identity.</string>
+    <string name="gcm_paypal_compliance_non_bank_cip_verify_success_message">Your money\'s now available in your PayPal balance</string>
+    <string name="gcm_paypal_compliance_non_bank_cip_verify_failure_title">We couldn\'t confirm your identity using your photo ID</string>
+    <string name="gcm_paypal_compliance_non_bank_cip_verify_failure_message">Just open your app to provide a bit more info.</string>
+    <!-- Loyalty Cards -->
+    <string name="fragment_loyalty_cards_title">Loyalty Cards</string>
+    <string name="loyalty_no_loyalty_text">Fast access to your loyalty cards, everywhere you shop</string>
+    <string name="loyalty_no_loyalty_sub_text">Carry all of your loyalty cards in your PayPal app. Get fast access to them wherever you are.</string>
+    <string name="loyalty_add_card">Add a Card</string>
+    <string name="loyalty_add_card_success_primary_text">Card added.</string>
+    <string name="loyalty_add_card_enter_number_label">Card Number</string>
+    <string name="loyalty_add_card_success_auto_subtext">Pay with PayPal at %1$s and your rewards are redeemed automatically.</string>
+    <string name="loyalty_add_card_success_manual_subtext">All you need to do is show this card at the till when you pay at %1$s.</string>
+    <string name="loyalty_add_card_success_snackbar_message">You added a loyalty card %1$s (%1$s)</string>
+    <string name="loyalty_add_card_automatically_redeem_message">Automatically redeemed on PayPal purchases.</string>
+    <string name="loyalty_error_text">Unable to load</string>
+    <string name="loyalty_error_retry_text">Please try again.</string>
+    <string name="loyalty_error_sub_text">It looks like something went wrong at our end. Please try again in a minute or two.</string>
+    <string name="loyalty_card_msg">•••• %1$s</string>
+    <string name="loyalty_view_title">Show this code to the cashier.</string>
+    <string name="loyalty_view_delete">Remove this card</string>
+    <string name="loyalty_view_barcode_title">Loyalty</string>
+    <string name="loyalty_view_delete_title">Are you sure?</string>
+    <string name="loyalty_view_delete_subtitle">Are you sure you want to remove your %1$s loyalty card?</string>
+    <string name="loyalty_view_delete_positive_button">Keep It</string>
+    <string name="loyalty_view_delete_negative_button">Remove It</string>
+    <string name="loyalty_view_card_scan_to_checkout">Scan this code at checkout.</string>
+    <string name="loyalty_view_card_show_to_cashier">Show this code to the cashier.</string>
+    <string name="loyalty_view_card_pay_rewards_automatically">Pay with PayPal at %1$s and get your rewards automatically.</string>
+    <string name="fragment_loyalty_enter_card_number_title">Enter the number</string>
+    <string name="fragment_loyalty_enter_card_number_text">Loyalty card number</string>
+    <string name="fragment_loyalty_add_card_button">Add This Card</string>
+    <string name="loyalty_merchant_list_search_box_hint">Find a store</string>
+    <string name="loyalty_merchant_list_title">Choose a store</string>
+    <string name="loyalty_merchant_list_automatically_redeem">Automatically redeem with PayPal</string>
+    <string name="loyalty_merchant_list_scan_redeem">Scan to redeem</string>
+    <string name="loyalty_merchant_list_no_stores_main_text">No store found</string>
+    <string name="loyalty_merchant_list_no_stores_sub_text">We can\'t find that shop, but we’re adding new ones all the time. Check back soon.</string>
+    <string name="fragment_loyalty_add_card_done_button">Done</string>
+
+    <!-- Help center -->
+    <string name="fragment_help_center_title">Help</string>
+
+    <!-- Security Settings -->
+    <string name="fragment_security_settings_title">Login and Security</string>
+    <string name="remember_me_label">Remember Me</string>
+    <string name="remember_me_desc">Remember my email address and profile picture.</string>
+    <string name="remember_me_disable_dialog_title">Fingerprint will also be disabled</string>
+    <string name="remember_me_disable_dialog_body">Turning off Remember Me will also unlink your fingerprint.</string>
+    <string name="stay_logged_in_desc">When you activate One Touch™, we\'ll automatically log you in when you pay with PayPal from this mobile phone. Please do not use this if you share your device.</string>
+    <string name="fingerprint_setting_label">Fingerprint</string>
+    <string name="fingerprint_setting_desc">All of the fingerprints stored on this device can be used to log in to your PayPal account.</string>
+    <string name="user_preview_setting_label">Extend your login session</string>
+    <string name="user_preview_setting_desc">Your account is eligible for longer logged-in sessions for activities you do often.</string>
+
+    <!-- Tap & Pay Settings -->
+    <string name="fragment_tap_and_pay_settings_title">Tap &amp; Pay</string>
+    <string name="fragment_tap_and_pay_settings_subtitle_not_ready">We are setting up your mobile device. Give us a few minutes and you should be ready to go</string>
+    <string name="option_enable_tap_and_pay_on">Tap &amp; Pay is ON</string>
+    <string name="option_enable_tap_and_pay_off">Tap &amp; Pay is OFF</string>
+    <string name="option_security_settings_level_1_label">Wake up your phone</string>
+    <string name="option_security_settings_level_2_label">Unlock your phone</string>
+    <string name="option_security_settings_level_3_label">Log in to the app</string>
+    <string name="option_device_id">Device ID: %1$s</string>
+    <string name="option_help_and_more_label">HELP AND MORE</string>
+    <string name="option_help_and_more_how_it_works_label">How it works</string>
+    <string name="option_help_and_more_help_and_faq_label">Help and FAQs</string>
+    <string name="option_funding_source_payments_powered_by">Payments powered by </string>
+    <string name="option_refunds_label">Virtual Card</string>
+
+    <!-- Notification Setting -->
+    <string name="fragment_notification_setting_title">Notifications</string>
+    <string name="notification_title">\"PayPal\" would like to send you push notifications</string>
+    <string name="notification_message">Notifications may include alerts. These can be configured in Settings</string>
+    <string name="notification_ok">OK</string>
+    <string name="notification_cancel">Cancel</string>
+    <string name="notification_purchase_preference_title">Buy something</string>
+    <string name="notification_sendmoney_preference_title">Send payments</string>
+    <string name="notification_requestmoney_preference_title">Receive a request for payments</string>
+    <string name="notification_receivemoney_preference_title">Receive payments</string>
+    <string name="notification_trackshipping_preference_title">Have purchases to track</string>
+    <string name="notification_balancethreshold_preference_title">Reach a Low Balance</string>
+    <string name="notification_genericmarketing_preference_title">Info about keeping your account up to date</string>
+    <string name="notification_sound_turn_on">Play a sound</string>
+
+    <string name="fragment_notification_setting_balance_threshold_title">Set low balance notification amount</string>
+    <string name="fragment_notification_setting_balance_threshold_enter_amount">Enter the amount</string>
+    <string name="fragment_notification_setting_balance_threshold_amount_error">Please enter an amount between $0 and $9,999.</string>
+    <string name="fragment_notification_setting_balance_threshold_currency_sign">$</string>
+    <string name="push_notifications_settings_balance_threshold_subtitle">We\'ll let you know when your PayPal balance drops below this amount.</string>
+
+    <!-- Personalization Preferences -->
+    <string name="personalization_preferences_title">Interest-based marketing</string>
+    <string name="personalization_preferences_subtitle">Choose whether the offers and promotions you see are personalized for you. %%1$s</string>
+    <string name="personalization_preferences_subtitle_more_info">More information</string>
+    <string name="personalization_preferences_try_again">Please try again</string>
+
+    <!-- Marketing Preferences -->
+    <string name="fragment_marketing_preferences_title">Marketing preferences</string>
+    <string name="marketing_preferences_activity_title">Marketing Preferences</string>
+    <string name="marketing_preferences_activity_subtitle">We\'ll send information that\'s relevant to you.You can choose what you\'d like to receive from us.</string>
+    <string name="marketing_preferences_activity_heading">You\'re receiving emails at: </string>
+    <string name="marketing_preference_error_message">We\'re sorry, we seem to have hit a snag.Please try again later.</string>
+
+    <string name="marketing_preferences_news_title">News</string>
+    <string name="marketing_preferences_offers_title">Offers</string>
+    <string name="marketing_preferences_paypal_credit_title">PayPal Credit</string>
+    <string name="marketing_preferences_surveys_title">Surveys</string>
+
+    <string name="marketing_preferences_news_desc">We\'ll send important information about our products and benefits to help you get the most from your account.</string>
+    <string name="marketing_preferences_offers_desc">From travel to technology and fashion to food, we\'ll send discounts and offers from our partner brands.</string>
+    <string name="marketing_preferences_paypal_credit_desc">With PayPal Credit, you can spread the cost of your purchases. Enjoy credit-specific offers and promotions tailored to you.</string>
+    <string name="marketing_preferences_surveys_desc">From time to time, we\'ll invite you to share your opinions. By taking part, you can help us create an even better PayPal.</string>
+
+    <string name="marketing_preferences_unsubscribe_title">Unsubscribe From All</string>
+    <string name="marketing_preferences_done">Done</string>
+    <string name="marketing_preferences_more_info">More information</string>
+
+    <string name="marketing_preferences_update_process_message">We\'re updating your preferences, which can take a little while. You may continue to receive marketing emails over the next few days.</string>
+
+    <!-- PayPal Personalization Preferences -->
+    <string name="fragment_paypal_personalization_preferences_title">Personalisation preferences</string>
+
+    <!-- Other Personalization Preferences -->
+    <string name="fragment_other_personalization_preferences_title">Personalisation preferences</string>
+
+    <!-- 'Login with PayPal' Preferences - 'Permissions'-->
+    <string name="fragment_permissions_title">Permissions</string>
+    <string name="permissions_label">Permissions you\'ve given</string>
+    <string name="permissions_desc">Review and update data and permissions you\'ve given to these apps and sites.</string>
+    <string name="permissions_count">%%1$s permissions</string>
+    <string name="permissions_details_title">Your permissions for %%1$s</string>
+    <string name="permissions_details_header">You\'re letting them:</string>
+    <string name="permissions_empty_label">You have no shared permissions.</string>
+
+    <!--  Legal Agreement Page -->
+    <string name="fragment_legal_agreement_title">Legal</string>
+    <string name="license_agreement">Licence Agreement</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="acceptable_use_policy">Acceptable Use Policy</string>
+    <string name="delivery_policy">Electronic Communication Delivery Policy</string>
+    <string name="product_disclosure_statement">Combined Financial Services Guide and Product Disclosure Statement</string>
+    <string name="key_payment_and_service_information">Key Payment and Service Information</string>
+    <string name="acknowledgements">Acknowledgements</string>
+    <string name="state_licenses">State Licences</string>
+    <string name="legal_notices">Legal Notices</string>
+
+    <!-- Home Tile -->
+    <string name="balance_tile_title">Manage Balance</string>
+    <string name="activity_tile_title">See Activity</string>
+    <!-- L10N-CREDIT-START -->
+    <string name="credit_tile_title">Manage Credit</string>
+    <!-- L10N-CREDIT-END -->
+    <string name="activity_tile_viewall">VIEW ALL</string>
+    <string name="activity_tile_error_msg">We\'re having trouble showing your activity at the moment.</string>
+    <string name="activity_tile_noactivity_desc">All your transactions get saved right here.\n Quickly find what you need when you need it. And forget about it when you don\'t.</string>
+    <string name="sendrequest_tile_title">SEND AND REQUEST</string>
+    <string name="sendrequest_tile_sendmoney_title">SEND MONEY</string>
+    <string name="sendrequest_tile_sendmoney_header">Send Money</string>
+    <string name="sendrequest_tile_sendmoney_desc">It\'s a faster, easier way to pay your friends back</string>
+    <string name="sendrequest_tile_requestmoney_title">REQUEST MONEY</string>
+    <string name="sendrequest_tile_requestmoney_header">Request Money</string>
+    <string name="sendrequest_tile_requestmoney_desc">Send an instant request for money so no one forgets to pay you back</string>
+    <string name="more_tile_title">MORE</string>
+    <string name="circle_tile_check_capture_header">Cash a Cheque</string>
+    <string name="circle_tile_order_ahead_header">Order Ahead</string>
+    <string name="circle_tile_pay_in_store_header">Instore</string>
+    <string name="circle_tile_loyalty_cards_header">Loyalty Cards</string>
+    <string name="circle_tile_offers_header">Offers</string>
+    <string name="circle_tile_donate_header">Donate</string>
+    <string name="circle_tile_atm_finder_header">Get Cash at ATMs</string>
+    <string name="circle_tile_cash_load_header">Add Cash</string>
+    <string name="circle_tile_donations_title">DONATE</string>
+    <string name="app_exit_tile">Are you sure?</string>
+    <string name="app_exit_message">You\'re about to log out.</string>
+    <string name="money_pools_title">Money Pools</string>
+    <string name="money_pools_title_with_count">Money Pools (%1$s)</string>
+    <string name="circle_tile_acorns_header">Invest with Acorns</string>
+    <string name="circle_tile_investments_header">Invest with Acorns</string>
+    <string name="circle_tile_benefits_header">Benefits</string>
+    <string name="money_tile_title_normal">Money is waiting for you</string>
+    <string name="money_tile_title_full_hold">You have money on hold %1$s</string>
+    <string name="money_tile_title_partial_hold_foreign_currency">Money is waiting for you*</string>
+    <string name="money_tile_button_normal">Claim It</string>
+    <string name="money_tile_button_negative">Add Money</string>
+    <string name="money_tile_description_negative">ADD MONEY TO RESOLVE THIS AMOUNT</string>
+    <string name="money_tile_description_negative_disabled">Resolve this amount on the website</string>
+    <string name="money_tile_description_partial_hold">YOU HAVE %1$s ON HOLD %1$s</string>
+    <string name="money_tile_description_partial_hold_foreign_currency">*ESTIMATED TOTAL OF ALL CURRENCIES</string>
+    <string name="money_tile_hold_info_dialog_title">Why is my payment on hold?</string>
+    <string name="money_tile_hold_info_dialog_message">If you have a new account, haven\'t sold something in a while, or received a request for a refund, your payment may be put on hold. To get more information on holds, visit our Help Centre.</string>
+    <string name="money_tile_hold_info_dialog_button">Okay</string>
+
+    <!-- Benefits -->
+    <string name="benefits_title">Benefits</string>
+
+    <!-- Balance -->
+    <string name="balance_primary_sub_text_available">AVAILABLE</string>
+    <string name="balance_primary_sub_text_pending_with_amount">AVAILABLE (%1$s PENDING)</string>
+    <string name="balance_primary_sub_text_negative_with_pending">YOU HAVE AN OUTSTANDING AMOUNT (%1$s PENDING)</string>
+    <string name="balance_primary_sub_text_negative">YOU HAVE AN OUTSTANDING AMOUNT</string>
+
+    <!-- Date Formats -->
+    <string name="date_format_mm_yyyy" translatable="false">MM/yy</string>
+    <string name="date_format_mmm_dd" translatable="false">MMM. dd</string>
+    <string name="date_format_mmm_dd_no_dot" translatable="false">MMM dd</string>
+    <string name="expiration_date_hint" translatable="false">MM/YY</string>
+    <string name="activity_item_header_date_format" translatable="false">MMM d, y</string>
+    <string name="transaction_info_date_template" translatable="false">k:mm z</string>
+    <string name="date_format_MM_dd_yyyy" translatable="false">MM/dd/yyyy</string>
+    <string name="time_format_HH_mm" translatable="false">hh:mm a zzz</string>
+
+    <!-- Eci Store -->
+    <string name="store_combined_search_box_hint">All restaurants</string>
+    <string name="paycode_title">Pay at %1$s</string>
+    <string name="paycode_screen_usage_instruction_text">Show this code to the cashier</string>
+    <string name="paycode_error_sub_text">It looks like something went wrong at our end.</string>
+    <string name="eci_paying_with_string">Paying with</string>
+    <string name="eci_paypal_balance_string">PayPal balance</string>
+    <string name="ssl_error">SSL Error</string>
+    <string name="nothing_nearby_subject">Nothing nearby</string>
+    <string name="nothing_nearby_body">We can\'t find any places near you</string>
+    <string name="invalid_geo">We\'re sorry, we\'re having trouble finding your location right now.</string>
+    <string name="eci_link_card_header_text">Add a card</string>
+    <string name="eci_link_card_subheader_text">Add your credit or debit card to pay in store.If you\'ve already added a card to your PayPal account, it might have expired or it may not have been confirmed yet.</string>
+    <string name="eci_fi_selector_policy_text">We\'ll charge your PayPal balance first. %%1$s</string>
+    <!-- L10N-CREDIT-START -->
+    <string name="eci_available_credit">Available credit</string>
+    <!-- L10N-CREDIT-END -->
+    <string name="eci_add_card_button_text">Add a card</string>
+    <string name="eci_confirm_payment_body">Your payment to %1$s has been confirmed.</string>
+    <string name="eci_order_marshmallow_location_turn_on">Turn on Location Services</string>
+    <string name="eci_mobile_pin_header_text">Pay with your mobile number and PIN</string>
+    <string name="eci_mobile_pin_subheader_text_line1">1. Tell the cashier you\'re paying with PayPal</string>
+    <string name="eci_mobile_pin_subheader_text_line2">2. Enter your mobile phone number</string>
+    <string name="eci_mobile_pin_subheader_text_line3">3. Enter your PayPal PIN</string>
+    <string name="eci_confirm_mobile_pin_text">Get Started</string>
+    <string name="eci_create_pin_text">Create a PIN</string>
+    <string name="eci_mobile_pin_goto_profile">Go to Your Account</string>
+    <string name="eci_confirm_mobile_pin_subheader_text">Confirm your mobile number and create a PIN in your account. When you\'re ready to pay, choose PayPal at the till, enter your mobile number and PIN, and you\'re good.</string>
+    <string name="eci_create_pin_subheader_text">Take a moment to create a PIN in your profile. Then, when you\'re ready to pay, choose PayPal at the till, enter your mobile number and PIN, and you\'re good.</string>
+    <string name="eci_address_search_title">Enter an address</string>
+    <string name="eci_keyword_search_title">Enter a name</string>
+    <string name="eci_keyword_search_hint">Enter a name</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="close">Close</string>
+    <string name="eci_found_nothing">We can\'t find anything nearby</string>
+
+    <!-- Eci Store LiftOff & CCA Strings-->
+    <string name="atm_finder_filter_title">Filters</string>
+    <string name="atm_finder_filter_body">Toggle service options below to change which ATMs are displayed in search results</string>
+    <string name="atm_finder_filter_apply">Apply</string>
+    <string name="atm_finder_filter_nosurcharge">No fees</string>
+    <string name="atm_finder_filter_24hr">Available 24 hours</string>
+    <string name="atm_finder_filter_driveup">Drive Up</string>
+    <string name="atm_finder_filter_wheelchair">Wheelchair accessible</string>
+
+    <!-- Generic Errors -->
+    <string name="general_page_error">There seems to be a problem on this page.</string>
+    <string name="general_intent_handling_error">We\'re sorry, something seems to have gone wrong.</string>
+    <string name="general_permission_denied_error">Permission refused</string>
+
+    <string name="upgrade_ok_button">OK, Let\'s Go</string>
+    <string name="enjoy_app">Enjoy Your App</string>
+    <string name="manage_paypal_balance">Manage Balance</string>
+    <string name="you_recieved_message">You\'ve received $14.80 USD from Brandon Cooper</string>
+    <string name="note_text">Hi Jamie, Thanks for buying lunch yesterday</string>
+    <string name="whats_next">WHAT\'S NEXT</string>
+    <string name="send_money_to_some_one">Send money to someone</string>
+
+    <!-- Force upgrade -->
+    <string name="force_upgrade_app_content">It\'s time to update your app so you have all the latest features.</string>
+    <string name="force_upgrade_app_button">Update Your App</string>
+    <string name="force_upgrade_not_now_button">Not Now</string>
+    <string name="force_upgrade_app_label">Get the latest PayPal app</string>
+    <string name="campaign_upgrade_app_content">To see this and all the other new stuff, you\'ll need to upgrade to the latest version of our app.</string>
+
+    <!-- Add Cash-->
+    <string name="add_money_from_bank_menu">Add from your bank account</string>
+    <string name="add_money_from_cash_menu">Add cash at a shop</string>
+    <string name="add_money_from_direct_deposit_menu">Direct deposit</string>
+    <string name="add_money_from_check">Cash a Cheque</string>
+
+    <!-- NFC related -->
+    <string name="nfc_intro_main_text">Let\'s get started</string>
+    <string name="nfc_intro_main_text_auto_top_up_enabled">Just a quick check</string>
+    <string name="nfc_intro_subtext">You’ll need to make sure you pick your preferred way to pay, and choose your security settings.</string>
+    <string name="nfc_nofi_main_text">Link your debit or credit card</string>
+    <string name="nfc_nofi_subtest">It\'s the fastest way to get set up.</string>
+    <string name="nfc_nofi_link_card">Add a card</string>
+    <string name="nfc_eligibility_failure_title">We need a bit more information</string>
+    <string name="nfc_eligibility_failure_message">We couldn\'t confirm your identity. Before you can turn on Tap &amp; Pay, log in to PayPal from your laptop or desktop and go to the Resolution Centre.</string>
+    <string name="nfc_security_settings_title">Choose a security setting</string>
+    <string name="nfc_security_settings_description">There\'s a level of convenience and security that\'s right for you.</string>
+    <string name="nfc_security_settings_level1_title">Level 1 - Wake up your phone</string>
+    <string name="nfc_security_settings_level2_title">Level 2 - Unlock your phone</string>
+    <string name="nfc_security_settings_level3_title">Level 3 - Log in to the app</string>
+    <string name="nfc_security_settings_level1_description">Just wake up your phone to Tap &amp; Pay.</string>
+    <string name="nfc_security_settings_level2_description">Unlock your phone to pay.</string>
+    <string name="nfc_security_settings_level3_description">The highest level of security. Log in to your PayPal app before you pay.</string>
+    <string name="nfc_create_pin_title">Create an in-store PIN</string>
+    <string name="nfc_in_store_pin_title">Instore PIN</string>
+    <string name="nfc_create_pin_intro_description_with_pin">Some shops will ask for a PIN.</string>
+    <string name="nfc_create_pin_intro_description_with_auto_pin">Some shops will ask for a PIN. Let\'s change it now.</string>
+    <string name="nfc_create_pin_intro_description_without_pin">Some shops will ask for a PIN. Let\'s create one now for your in-store purchases.</string>
+    <string name="nfc_create_pin_intro_description_line2">You can change your PIN in the Tap &amp; Pay section of your profile</string>
+    <string name="nfc_create_pin_intro_button">Create a PIN</string>
+    <string name="nfc_fi_instrument_additional_info">This will be your preferred way to pay in shops and when you order ahead</string>
+    <string name="nfc_create_pin_dialog_message">I have read and agree to the &lt;a href=\"%1$s\"&gt;Tap &amp; Pay Supplemental Terms&lt;/a&gt;.</string>
+    <string name="nfc_payflow_error_title">Please try again</string>
+    <string name="nfc_payflow_connection_error_title">We\'re sorry, something seems to have gone wrong,</string>
+    <string name="nfc_payflow_connection_error_message">We’re sorry. We couldn\'t complete your payment. Please connect to the internet, reopen the app and try again.</string>
+    <string name="nfc_payflow_security_unlock_error_title">Unlock your phone to pay</string>
+    <string name="nfc_payflow_security_unlock_error_message">Type in your passcode then hold your phone over the reader to pay.</string>
+    <string name="nfc_payflow_security_unlock_button_text">Unlock</string>
+    <string name="nfc_payflow_security_login_error_title">Log in to PayPal</string>
+    <string name="nfc_payflow_security_login_error_message">Log in to your PayPal app first. Then hold your phone over the reader to pay.</string>
+    <string name="nfc_payflow_security_login_error_button_text">Open the PayPal App</string>
+    <string name="nfc_setting_up_tap_and_pay">Setting up Tap &amp; Pay…</string>
+    <string name="nfc_setting_up_tap_and_pay_instructions">Hold your phone face-up over the payment reader and wait for the buzz</string>
+    <string name="nfc_tap_and_pay_is_set_up">Tap &amp; Pay is set up</string>
+    <string name="nfc_setting_up_back_warning_title">Are you sure?</string>
+    <string name="nfc_setting_up_back_warning_message">If you stop now, you’ll have to start the setup process all over again.</string>
+    <string name="nfc_setting_up_back_warning_button_positive">Continue Setup</string>
+    <string name="nfc_setting_up_back_warning_button_negative">Back</string>
+    <string name="nfc_activation_exception_title">Tap &amp; Pay</string>
+    <string name="nfc_activation_exception_nfc_off_main_text">Turn on NFC</string>
+    <string name="nfc_activation_exception_nfc_off_sub_text">You’ll need to turn on NFC in your phone’s settings.</string>
+    <string name="nfc_activation_exception_nfc_off_overlay_text">NFC</string>
+    <string name="nfc_activation_exception_nfc_off_button_text">Go to Phone Settings</string>
+    <string name="nfc_activation_exception_nfc_not_default_main_text">Make PayPal your way to pay</string>
+    <string name="nfc_activation_exception_nfc_not_default_sub_text">To use Tap &amp; Pay, make PayPal your preferred way to pay in your phone\'s settings</string>
+    <string name="nfc_activation_exception_nfc_not_default_overlay_text">PayPal\nTap &amp; Pay</string>
+    <string name="nfc_activation_exception_nfc_not_default_button_text">Make PayPal Preferred</string>
+    <string name="nfc_done_confirmation_title">You’re ready to go</string>
+    <string name="nfc_done_confirmation_generic_message">Use Tap &amp; Pay anywhere you see this symbol and the %1$s logo.</string>
+    <string name="nfc_done_confirmation_processed_by_partner">Payments powered by %1$s</string>
+    <string name="nfc_done_confirmation_discover_card_name">Discover</string>
+    <string name="nfc_done_confirmation_eftpos_card_name">EFTPOS</string>
+    <string name="nfc_interstitial_title">WHAT’S NEW</string>
+    <string name="nfc_interstitial_subtitle">Tap, pay and get on your way</string>
+    <string name="nfc_interstitial_message">Use your phone to pay more securely with PayPal. No wallet. No problem. </string>
+    <string name="nfc_interstitial_button_no">Not Now</string>
+    <string name="nfc_interstitial_button_yes">Set It Up</string>
+    <string name="nfc_intro_description_line1">You can pay with your PayPal balance in restaurants, shops and more</string>
+    <string name="nfc_intro_description_line2">Not enough in your balance? Top it up from your bank or debit card</string>
+    <string name="nfc_intro_description_line3">You pick the top up amount. We\'ll only top up when you use Tap &amp; Pay</string>
+    <string name="nfc_intro_description_line_when_auto_top_up_set">Take a second to review your automatic top up settings before we turn on Tap &amp; Pay.</string>
+    <string name="nfc_error_dialog_title">We\'re sorry,</string>
+    <string name="nfc_error_dialog_message">It looks like something went wrong at our end. Please try again shortly.</string>
+    <string name="nfc_error_dialog_positive_button">Please try again</string>
+    <string name="nfc_error_dialog_negative_button">Cancel</string>
+
+    <!-- NFC Onboarding -->
+    <string name="instorepay_nfc_onboarding_error_normalisation_failed_title">We\'re sorry, something seems to have gone wrong,</string>
+    <string name="instorepay_nfc_onboarding_error_normalisation_failed_message">We\'re having trouble completing your request at the moment. Please try again.</string>
+    <string name="title_activity_show_diagnostics">Diagnostics</string>
+    <string name="instorepay_nfc_onboarding_intro_terms_and_conditions_title">Terms and Conditions</string>
+    <string name="instorepay_nfc_onboarding_intro_terms_and_conditions_agree_button_text">Agree</string>
+    <string name="instorepay_nfc_onboarding_intro_terms_and_conditions_cancel_button_text">Cancel</string>
+    <string name="instorepay_nfc_onboarding_local_remote_wallets_not_synchronized">Onboarding aborted. Local and Remote wallets are not synchronised.</string>
+    <string name="instorepay_nfc_onboarding_no_device_id">Device ID not found.</string>
+    <string name="instorepay_nfc_onboarding_product_type_not_found">Cannot resolve available product type for user.</string>
+    <string name="instorepay_nfc_onboarding_no_pos_pin">No user POS PIN</string>
+
+    <!--  NFC Payment Access Level -->
+    <string name="instorepay_payment_access_level">Payment Access Level</string>
+
+    <string name="instorepay_nfc_onboarding">NFC Onboarding</string>
+    <string name="instorepay_nfc_app_bar_title">Tap &amp; Pay</string>
+    <string name="instorepay_nfc_payment_success">Check the reader for your payment confirmation</string>
+    <string name="instorepay_nfc_payment_virtual_card_number">%1$s virtual card number: %1$s</string>
+    <string name="instorepay_nfc_payment_connecting">Connecting…</string>
+    <string name="instorepay_nfc_payment_connection_error_check">Check Internet Connection</string>
+    <string name="nfc_antenna_position_tutorial_phone">The NFC antenna is located at the %1$s of your %1$s.</string>
+    <string name="nfc_antenna_position_tutorial_terminal">Hold the %1$s part of your phone over the Tap &amp; Pay reader and wait for your phone to buzz. All done.</string>
+
+    <string name="nfc_tap_and_pay_details_title">Virtual card</string>
+    <string name="nfc_tap_and_pay_details_line_1">Powered by %1$s.</string>
+    <string name="nfc_tap_and_pay_details_line_2">To use Tap &amp; Pay, we created a virtual card number that\'s linked to your PayPal account.</string>
+    <string name="nfc_tap_and_pay_details_line_3">Last 4 digits</string>
+    <string name="nfc_tap_and_pay_details_line_4">•••• %1$s</string>
+    <string name="nfc_tap_and_pay_details_line_5">You may be asked for this for a purchase or a refund.</string>
+    <string name="nfc_done_button">Done</string>
+    <string name="nfc_next_button">Next</string>
+    <string name="nfc_set_up_button">Set up</string>
+
+    <!-- NFC Home -->
+    <string name="instorepay_nfc_home_pay_preferred_fi_name_placeholder">No preferred card</string>
+    <string name="instorepay_nfc_home_pay_preferred_fi_details_placeholder">Tap to select</string>
+    <string name="nfc_home_option_settings">Settings</string>
+    <string name="nfc_home_option_tap_and_pay_details">Tap &amp; Pay Details</string>
+    <string name="nfc_home_option_tutorial">How it works</string>
+    <string name="nfc_home_option_help_faq">Help and FAQs</string>
+
+    <!-- NFC Activation -->
+    <string name="instorepay_nfc_scheme_eftpos">eftpos</string>
+    <string name="instorepay_nfc_scheme_dpas">Discover</string>
+
+    <!-- NFC Payment Errors -->
+    <string name="nfc_paymnent_error_try_again_header">Please try again.</string>
+    <string name="nfc_payment_error_reader_problem_header">This terminal may not accept %1$s contactless payments just yet.</string>
+    <string name="nfc_payment_error_while_setting_up_tap_and_pay">We\'re sorry, We\'re still setting up your phone for Tap &amp; Pay. Please try again later.</string>
+    <string name="nfc_payment_error_onboard_advise_text">Go to the PayPal app to set up Tap &amp; Pay first.</string>
+    <string name="nfc_payment_error_turn_off_nfc">Go to your Profile in the PayPal app to turn on Tap &amp; Pay</string>
+
+    <!-- NFC FI Selector -->
+    <string name="instorepay_nfc_select_funding_source_title">Paying with</string>
+    <string name="instorepay_nfc_select_funding_source_credit_card_fee_explanation">For in-store payments.\nYou can change this anytime.</string>
+    <string name="instorepay_nfc_select_funding_source_policy">If you have a PayPal balance, we’ll use that first. If there’s an issue with your preferred payment method, we’ll try the others linked to your PayPal account. &lt;a href=\"https://www.paypal.com/us/webapps/mpp/popup/about-payment-methods\"&gt;View PayPal Policies.&lt;/a&gt;</string>
+
+    <string name="gcm_liftoff_manual_review_complete">We\'ve reviewed your information. Explore Direct Debit, goals, and more by clicking below.</string>
+    <string name="gcm_liftoff_action_label_view_manual_review_details">DETAILS</string>
+    <string name="gcm_liftoff_action_label_view_direct_deposit">DIRECT DEBIT</string>
+    <string name="gcm_liftoff_action_label_create_goal">GOALS</string>
+    <string name="liftoff_manual_review_complete_title">You\'re all set.</string>
+    <string name="gcm_liftoff_ppcash_deposit_received">%1$s You\'ve added cash to your PayPal account</string>
+    <string name="gcm_liftoff_ppcash_deposit_received_with_retailer_name">%%1$s You added %%2$s to your PayPal account at %%3$s. Your balance is %%4$s.</string>
+    <string name="gcm_liftoff_check_deposit_success_minutes">%1$s We cashed your cheque and added the money to your PayPal account.</string>
+    <string name="gcm_liftoff_check_deposit_success_days">%1$s We\'ve cashed the cheque you sent us on %1$s and the money has been added to your PayPal account.</string>
+    <string name="gcm_liftoff_check_deposit_failed">Your cheque couldn\'t be processed. Tap here for more information on what to do next.</string>
+    <string name="gcm_liftoff_atm_withdrawal">You withdrew %%1$s with your PayPal Cash Card. Your current PayPal balance is %%2$s</string>
+    <string name="gcm_liftoff_atm_withdrawal_no_balance">You withdrew %1$s with your PayPal Cash Card.</string>
+    <string name="gcm_liftoff_ppcc_transaction_sale">You paid %%1$s to %%2$s. Your available PayPal balance is %%3$s</string>
+    <string name="gcm_liftoff_ppcc_transaction_sale_no_balance">You\'ve paid %1$s to %1$s.</string>
+    <string name="gcm_liftoff_ppcc_transaction_refund">You received a refund of %%1$s from %%2$s. Your available PayPal balance is %%3$s.</string>
+    <string name="gcm_liftoff_ppcc_transaction_refund_no_balance">You\'ve received a refund of %1$s from %1$s.</string>
+    <string name="gcm_liftoff_ppcc_transaction_reversal">Your transaction at %%1$s for %%2$s didn\'t go through and was refunded to your PayPal account. Your available PayPal balance is %%3$s.</string>
+    <string name="gcm_liftoff_ppcc_transaction_reversal_no_balance">Your transaction at %1$s for %1$s didn\'t go through and was refunded to your PayPal account.</string>
+    <string name="gcm_liftoff_ppcc_transaction_capture">%%1$s has completed your transaction for %%2$s. Your available PayPal balance is %%3$s</string>
+    <string name="gcm_liftoff_ppcc_transaction_capture_no_balance">%1$s has completed your transaction for %1$s.</string>
+    <string name="gcm_liftoff_low_balance">Your PayPal balance has fallen below %1$s.Add money so you have enough to cover your future purchases.</string>
+    <string name="gcm_liftoff_low_balance_reminder">Low balance: Your PayPal balance is %1$s. Add money so you have enough to cover your future purchases.</string>
+
+    <!-- Google Pay -->
+    <string name="google_pay">Google Pay</string>
+    <string name="google_pay_paypal_not_default">PayPal isn\'t your default way to pay with Google Pay.</string>
+    <string name="google_pay_paypal_is_default">PayPal is your default way to pay with Google Pay.</string>
+    <string name="google_pay_disconnect">Disconnect from Google Pay</string>
+    <string name="google_pay_disconnected_message">Your PayPal balance isn\'t linked to Google Pay.</string>
+    <string name="android_pay_automatic_top_up">Automatic top-up</string>
+    <string name="android_pay_payment_method">Funding Source</string>
+    <string name="android_pay_in_store_pin">Instore PIN</string>
+    <string name="text_new">New</string>
+    <string name="automatic_top_up_title">Automatic top-up</string>
+    <string name="automatic_top_up_description_with_product_name_default">If there\'s not enough money in your PayPal balance at the time of your purchase, top up instantly pulls increments of %%1$s from your linked bank account or debit card so your purchase doesn\'t get declined. This works if you pay with:\n\n• PayPal Cash Card\n• Google Pay\n• Samsung Pay\n\nIf you turn automatic top up on or off for one of these services, you\'ll also turn it on or off for all of them.</string>
+    <string name="automatic_top_up_description_with_product_name">If there\'s not enough money in your PayPal balance at the time of your purchase, top up instantly pulls increments of %%1$s from your linked bank account or debit card so your purchase doesn\'t get declined. This works if you pay with:\n\n%%2$s\nIf you turn automatic top up on or off for one of these services, you\'ll also turn it on or off for all of them.</string>
+    <string name="automatic_top_up_description_without_product_name">When you don\'t have enough in your PayPal balance, we\'ll add money from your bank or debit card in the amount you decide to cover the purchase.</string>
+    <string name="automatic_top_up_from">Top up from</string>
+    <string name="automatic_top_up_change_backup_title">Choose a bank account or debit card to top up your balance from</string>
+    <string name="automatic_top_up_no_fi_title">Add a Debit Card</string>
+    <string name="automatic_top_up_no_fi_button">Add a Debit Card</string>
+    <string name="automatic_top_up_no_fi_description">This debit card will be used to top up your PayPal balance and make sure your transactions go through even if you don\'t have enough money for your purchases.</string>
+    <string name="automatic_top_up_turn_off_title">Do you want to turn automatic top-up off?</string>
+    <string name="automatic_top_up_turn_off_message_with_product_name">When you don\'t have enough money in your PayPal balance, if you use PayPal Cash Card, Google Pay and Samsung Pay, your purchase will get declined.</string>
+    <string name="automatic_top_up_turn_off_message_with_product_name_one">When you don\'t have enough money in your PayPal balance, if you use %1$s, your purchase will be declined.</string>
+    <string name="automatic_top_up_turn_off_message_with_product_name_two">When you don\'t have enough money in your PayPal balance, if you use %1$s, and %1$s, your purchase will be declined.</string>
+    <string name="automatic_top_up_turn_off_message_with_product_name_three">When you don\'t have enough money in your PayPal balance, if you use %1$s, %1$s, and %1$s, your purchase will be declined.</string>
+    <string name="automatic_top_up_turn_off_message_with_product_name_four">When you don\'t have enough money in your PayPal balance, if you use %1$s, %1$s, %1$s, and %1$s, your purchase will be declined.</string>
+    <string name="automatic_top_up_turn_off_yes">Leave it on</string>
+    <string name="automatic_top_up_turn_off_no">Turn it off</string>
+    <string name="automatic_top_up_turning_on_error">We\'re sorry, we\'re having trouble turning on automatic top-up for your account. Please try again later.</string>
+    <string name="automatic_top_up_is_off_title">Automatic top-up is off</string>
+    <string name="automatic_top_up_is_off_button">Turn it on</string>
+    <string name="setup_automatic_top_up_title">Set up automatic top up</string>
+    <string name="automatic_top_up_choose_bank_or_debit">Choose a bank account or debit card</string>
+    <string name="automatic_top_up_button_set_it_up">Set it up</string>
+    <string name="automatic_top_up_invalid_fi">It looks like the card/bank you selected has been removed</string>
+    <string name="android_pay_set_it_up">Set It Up</string>
+    <string name="linked_to_google_pay_success_title">Linked to Google Pay</string>
+    <string name="linked_to_google_pay_success_description">Now you can use PayPal with Google Pay.</string>
+    <string name="use_paypal_with_google_pay_full_screen_title">Use PayPal with Google Pay</string>
+    <string name="use_paypal_with_google_pay_full_screen_description">Pay with PayPal in shops, apps and more. You can enjoy the security of PayPal with the convenience of Google Pay. Set it up today.</string>
+    <string name="use_paypal_with_google_pay_full_screen_description_no_nfc">Pay with PayPal in apps and more. You can enjoy the security of PayPal with the convenience of Google Pay. Set it up today.</string>
+    <string name="android_pay_needs_idv_title">Let\'s finish up</string>
+    <string name="google_pay_needs_idv_description">It looks like you left before you\'d finished setting up Google Pay.Let\'s pick up where you left off.</string>
+    <string name="android_pay_needs_idv_next">Next</string>
+    <string name="google_pay_suspended_title">Google Pay has been suspended</string>
+    <string name="google_pay_suspended_description">For your security, we\'ve suspended the PayPal card you have in Google Pay. Call us for more information and to turn it back on.</string>
+    <string name="android_pay_suspended_call_us">Call Us</string>
+    <string name="android_pay_suspended_call_us_dialog_message">The standard rates charged by your mobile network provider may apply, including any international charges for international calls.</string>
+    <string name="android_pay_suspended_call_us_dialog_cancel">Cancel</string>
+    <string name="android_pay_suspended_call_us_dialog_call">Call</string>
+    <string name="card_last_four_redacted">•••• %1$s</string>
+
+    <!-- Samsung Pay -->
+    <string name="samsung_pay">Samsung Pay</string>
+    <string name="use_paypal_with_samsung_pay_full_screen_title">Use PayPal with Samsung Pay</string>
+    <string name="use_paypal_with_samsung_pay_full_screen_description">Use your phone to pay more securely with PayPal. No wallet. No problem. </string>
+    <string name="samsung_pay_set_it_up">Set It Up</string>
+    <string name="samsung_pay_later">Later</string>
+    <string name="samsung_pay_provisioned_title">Linked to Samsung Pay</string>
+    <string name="samsung_pay_provisioned_message">Now you can use PayPal in Samsung Pay.</string>
+    <string name="samsung_pay_provisioned_button">Done</string>
+    <string name="samsung_pay_needs_setup_title">Set up Samsung Pay</string>
+    <string name="samsung_pay_needs_setup_message">Take a minute to get your Samsung Pay set up. Once you do, you can use PayPal with it.</string>
+    <string name="samsung_pay_needs_update_title">Get the latest version of Samsung Pay</string>
+    <string name="samsung_pay_needs_update_message">Looks like Samsung Pay needs an update. Once that\'s done, you can use PayPal with it.</string>
+    <string name="samsung_pay_needs_idv_title">Let\'s finish up</string>
+    <string name="samsung_pay_needs_idv_message">Looks like you left before you\'d finished setting up Samsung Pay. Let\'s pick up where you left off.</string>
+    <string name="samsung_pay_go_to_samsung_pay_button">Go to Samsung Pay</string>
+    <string name="samsung_pay_error_button">OK</string>
+
+    <!-- Android Pay and Samsung Pay common -->
+    <string name="common_pay_linked">Your PayPal balance is linked to %1$s</string>
+    <string name="starpay_linked_to_product_name_v1">PayPal is linked to %1$s</string>
+    <string name="starpay_linked_to_product_name_v2">Linked to %1$s</string>
+    <string name="starpay_linked_to_product_name_description">Now you can use PayPal in %1$s.</string>
+    <string name="starpay_payment_method_description_v1">Choose a bank account to pay with %1$s. If you have a PayPal balance, we\'ll use that first.</string>
+    <string name="starpay_payment_method_description_v2">Can\'t see all of your bank accounts? Only confirmed bank accounts can be used with %1$s. To confirm and use a different bank account, go to Bank Accounts and Cards.</string>
+    <string name="starpay_value_prop_description_v3">Pay with PayPal in shops, apps and more. Keep track of all your purchases in one place, too.</string>
+    <string name="starpay_value_prop_description_v4">Pay with PayPal in apps and more. Keep track of all your purchases in one place, too.</string>
+    <string name="starpay_value_prop_description_product_name_line2_v2">You need a confirmed bank account to add PayPal to %1$s.Add a bank account and then come back here to set it up.</string>
+    <string name="starpay_choose_bank_product_name">Choose a bank account to pay with %1$s.</string>
+    <string name="starpay_link_or_confirm_description">Go to Bank Accounts and Cards to add your bank account. Then come back here to choose it.</string>
+    <string name="starpay_button_text_with_product_name">Set Up PayPal in %1$s.</string>
+    <string name="starpay_button_bank_link">Add a Bank Account</string>
+    <string name="starpay_disconnected_account_message">Your PayPal account isn\'t linked to %1$s.</string>
+
+    <string name="go_to_xoom">Go to Xoom</string>
+    <string name="go_to_xoom_description">Log in to your Xoom account to see all of your transactions.</string>
+
+    <!-- Incentive Offers -->
+    <string name="incentive_offers_title_initial">My offers</string>
+    <string name="incentive_offers_title">My offers (%1$d)</string>
+    <string name="incentive_offers_psb_title">PayPal Special Offer</string>
+    <string name="incentive_offers_empty_title">At the moment, you don\'t have any offers.</string>
+    <string name="incentive_offers_empty_sub_title">Next time you save an offer or get one from us by email, you\'ll see it here.\n\nCheck back often to get savings for all your shopping needs.</string>
+    <string name="incentive_offer_tile_expiration">Valid %1$s - %1$s</string>
+    <string name="incentive_offer_tile_details">See Details</string>
+    <string name="incentive_offer_tile_use">Use Offer</string>
+    <string name="incentive_offer_details_use_paypal">Make sure you pay with PayPal to use your offer.</string>
+    <string name="incentive_offer_details_expiration_title">Offer valid</string>
+    <string name="incentive_offer_details_expiration">%1$s to %1$s</string>
+    <string name="incentive_offer_details_use_toggle">Use with next purchase (when valid)</string>
+    <string name="incentive_offer_details_and_conditions">Terms and Conditions</string>
+    <string name="incentive_offer_delete">Remove</string>
+    <string name="incentive_offer_confirm_delete_title">Are you sure?</string>
+    <string name="incentive_offer_confirm_delete_message">Are you sure you want to remove this offer?</string>
+    <string name="incentive_offer_confirm_delete_yes">Remove</string>
+    <string name="incentive_offer_confirm_delete_no">Not Now</string>
+    <string name="incentive_error_title">We\'re Sorry</string>
+    <string name="incentive_error_message">It looks like something went wrong at our end.\nPlease try again in a moment.</string>
+    <string name="incentive_error_try_again">Please try again</string>
+
+    <string name="set_it_up_caps">SET IT UP</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="remove">Remove</string>
+
+    <string name="preferred_balance_pop_up_desc">If you don\'t have enough money in your balance, we\'ll ask you to pick one of your other funding sources.</string>
+
+    <!-- Verify Apps Not Confirmed -->
+    <string name="verify_apps_unconfimed_dialog_title">Before you come in…</string>
+    <string name="verify_apps_unconfimed_dialog_message">"Go to Security in your phone's Settings and turn on \"Verify Apps\\. This helps us keep your PayPal app more secure. You can't log in until you turn it on."</string>
+    <string name="verify_apps_unconfimed_positive_button">Go to Settings</string>
+    <string name="verify_apps_unconfimed_negative_button">Cancel</string>
+
+    <!-- Offer related -->
+    <string name="browse_offers_button_title">Browse Offers</string>
+    <string name="browse_offers_button_title_description">Browse special offers from shops and brands.</string>
+    <string name="browse_more_offers_button_title">Browse More Offers</string>
+    <string name="offers_title_initial">Offers</string>
+    <string name="offers_empty_title">You don\'t have any saved offers</string>
+    <string name="offers_empty_sub_title">This is where you\'ll see any offers you\'ve saved. Offers are applied automatically when you pay with PayPal.</string>
+
+    <!-- QR Code -->
+    <string name="qr_code_mini_tile_text">Scan to Send Money</string>
+    <string name="qr_code_app_bar_text">Scan or share a code</string>
+    <string name="qr_code_app_shortcut_share_paypal_me">Share PayPal</string>
+    <string name="qr_code_app_shortcut_request_money">Request Money</string>
+    <string name="qr_code_app_shortcut_send_money">Send Money</string>
+    <string name="qr_code_app_shortcut_qr_code">Scan to Send Money</string>
+    <string name="qr_code_app_shortcut_view_activity">View Activity</string>
+    <string name="qr_code_intro_page_btn_text">Got it</string>
+    <string name="qr_code_intro_page_text">Use a code to send or receive money</string>
+    <string name="qr_code_intro_page_description">Send money in a snap by scanning someone\'s PayPal code. Or, share your own code to receive money.</string>
+    <string name="qr_code_camera_permission_button_text">Access Camera</string>
+    <string name="qr_code_camera_permission_body">Change your device settings so that you can scan the code with PayPal.</string>
+    <string name="qr_code_camera_permission_title_text">Allow access to your camera</string>
+    <string name="qr_code_tab_title_scan">Scan</string>
+    <string name="qr_code_tab_title_share">Share</string>
+    <string name="qr_code_my_code_disclaimer">What you\'re sharing: your name, your photo and your PayPal.Me link, if you have one.</string>
+    <string name="qr_code_scan_instructional">Scan a PayPal code.</string>
+    <string name="qr_code_scan_failure_text">It doesn\'t look like that\'s a valid code. Try again. </string>
+    <string name="qr_code_invalid_qr_code_title">Invalid code</string>
+    <string name="qr_code_invalid_code_description">Scan a valid PayPal code to try again.</string>
+    <string name="qr_code_counter_party_profile_send_money_text">Send Money</string>
+    <string name="qr_code_scan_own_code_snackbar_text">Oops, you\'ve scanned your own code.</string>
+    <string name="qr_code_scan_own_code_informational_text">You can\'t send money to yourself. By the way, this is what you\'ll look like to others when they scan your code.</string>
+    <string name="qr_code_camera_unaccessible_header">We can\'t access your phone\'s camera at the moment</string>
+    <string name="qr_code_camera_unaccessible_subheader">It might be busy with another app. Try restarting your phone.</string>
+    <string name="qr_code_profile_photo_accessibility">Your PayPal QR code</string>
+    <string name="qr_code_share_code_accessibility">Your PayPal QR code. What you\'re sharing: your name, your photo and your PayPal.Me link, if you have one.</string>
+    <string name="qr_code_social_profile_counter_party_photo_accessibility">%1$s\'s photo</string>
+
+    <!--  Track Shipping Push Notification  -->
+    <string name="shipping_push_notification_message">Track your shipment</string>
+    <string name="shipping_manifest">Your purchase with %1$s has been dispatched.</string>
+    <string name="shipping_out_for_delivery">Your purchase with %1$s is out for delivery.</string>
+    <string name="shipping_delivered">Your purchase with %1$s has been delivered.</string>
+    <string name="shipping_exception">Your purchase with %1$s may be delayed.</string>
+    <string name="shipping_in_transit">Your purchase with %1$s is on its way.</string>
+
+    <!-- SMC Message Received Push Notification -->
+    <string name="smc_message_received_push_notification">New messages are waiting for you.</string>
+
+    <!-- Payment Activity Alert Push Notification -->
+    <string name="refund_received_push_notification">You should\'ve received a refund of %%1$s today.</string>
+
+    <!-- home 2 -->
+    <string name="home2_bottom_button_more">More</string>
+    <string name="home2_event_based_tile_today">Today</string>
+    <string name="home2_event_based_tile_yesterday">Yesterday</string>
+    <string name="home2_event_based_tile_days_ago">%1$d days ago</string>
+    <string name="home2_quick_send_tile_title">Send again</string>
+    <string name="home2_quick_send_search_icon_text">Search</string>
+    <string name="home2_balance_main_text">PayPal balance</string>
+    <string name="home2_balance_sub_text">Available</string>
+    <string name="home2_balance_main_text_hold">Money on hold</string>
+    <string name="home2_balance_sub_text_hold">Learn about holds</string>
+    <string name="home2_balance_main_text_negative_no_balance">Add money to bring your balance above zero</string>
+    <string name="home2_balance_sub_text_negative_no_balance">Add money on the website to bring your balance above zero</string>
+    <string name="home2_balance_sub_text_negative">Add money to bring your balance above zero</string>
+    <string name="home2_balance_sub_text_foreign_currencies">Estimated total of all currencies</string>
+    <string name="home2_balance_menu_view_details">View details</string>
+    <string name="home2_balance_accessibility_menu_button">Balance Context Menu</string>
+    <string name="home2_balance_bottom_view_details">View details</string>
+    <string name="home2_accessibility_close_bottom_sheet">Close more tray</string>
+    <string name="home2_accessibility_open_bottom_sheet">Showing more tray</string>
+    <string name="home2_activity_header">Your activity</string>
+    <string name="home2_activity_no_activity">See your payments, purchases and more right here.</string>
+    <string name="home2_money_pool_sub_text">Available</string>
+    <string name="home2_money_pool_default_web_view_title">Money Pools</string>
+    <string name="home2_greeting_text">Hello %1$s,</string>
+    <string name="home2_acorns_title">Acorns Investments</string>
+    <string name="home2_acorns_sub_text">Invested with Acorns</string>
+    <string name="home2_acorns_menu_text">View details</string>
+    <string name="home2_acorns_add_money_menu_text">Add money</string>
+    <string name="accessibility_more_options">More options</string>
+
+    <!-- home 2 / Goals -->
+    <string name="goals_add_money">Add money</string>
+    <string name="goals_setup_auto_transfer">Set up automatic transfers</string>
+    <string name="goals_view_details">See details</string>
+    <string name="goals_see_all_goals">See all goals</string>
+    <string name="goals_create_new_goal">Create a new goal</string>
+    <string name="goals_reached_notification">You\'ve reached your goal!\n</string>
+    <string name="goals_add_money_notification">Add money to your goal</string>
+
+
+    <!-- home 2 / Credit -->
+    <!-- L10N-CREDIT-START -->
+    <string name="credit_auto_payment_scheduled">Direct Debits scheduled</string>
+    <string name="credit_next_payment_due">Next payment due</string>
+    <string name="credit_minimum_payment_amount">Minimum payment %1$s</string>
+    <string name="credit_make_payment_now">Make a payment now</string>
+    <string name="credit_tile_alert_icon_description">Payment due</string>
+    <string name="credit_accessibility_menu_button">More options</string>
+    <string name="credit_menu_option_go_to">Go to %1$s</string>
+    <string name="credit_menu_option_setup_autopay">Set up Direct Debit</string>
+    <string name="credit_menu_option_make_payment">Make a payment</string>
+    <!-- L10N-CREDIT-END -->
+
+    <!-- Add PayPal Cash Card to Google Pay Dialog -->
+    <string name="add_pp_cash_card_to_google_pay_dialog_title">Add your PayPal Cash Card to Google Pay</string>
+    <string name="add_pp_cash_card_to_google_pay_dialog_body">Pay for just about anything, easily and more securely – right from your mobile phone</string>
+    <string name="add_pp_cash_card_to_google_pay_dialog_pos_btn">Add Card</string>
+    <string name="add_pp_cash_card_to_google_pay_dialog_neg_btn">Not Now</string>
+
+    <!-- Secure Message Center -->
+    <string name="inbox">Message Centre</string>
+
+    <!-- home 2 / Account Quality -->
+    <string name="account_quality_hi_username_formatted_string">Hello %1$s,</string>
+    <string name="account_quality_get_the_most_out_of_paypal">Make the most of PayPal</string>
+
+    <!-- Network Identity on Settings -->
+    <string name="network_identity_profile_on_settings_off">PayPal.Me profile</string>
+    <string name="network_identity_profile_on_settings_on">PayPal.Me</string>
+
+    <!-- Network Identity on Profile -->
+    <string name="network_identity_profile">PayPal.Me Profile</string>
+    <string name="network_identity_profile_on">Your PayPal.Me profile</string>
+    <string name="network_identity_detail_on_off_old">Help people know it\'s you they\'re paying, and have more control over what people see.</string>
+    <string name="network_identity_link_type_above_title">You\'re accepting:</string>
+    <string name="network_identity_link_type_personal_title">Personal payments</string>
+    <string name="network_identity_link_type_purchase_and_merchant_title">Goods and Services</string>
+    <string name="network_identity_link_type_subtitle_personal"><![CDATA[People can always change to Goods and Services. It gives them <a href=\"%1$s\">PayPal Purchase Protection</a> on their eligible items.]]></string>
+    <string name="network_identity_link_type_subtitle_purchase">People can always change to personal payments if they\'re paying you back or chipping in for a gift.</string>
+    <string name="network_identity_link_type_subtitle_merchant"><![CDATA[Free for your customers. You\'ll pay a fee to receive. You both get <a href=\"%1$s\">PayPal Purchase Protection</a> on eligible items.]]></string>
+    <string name="network_identity_detail">Your name and photo can still be seen by people you\'ve sent money to and received money from. </string>
+    <string name="network_identity_bullet">See and Share</string>
+    <string name="network_identity_location">Location</string>
+    <string name="network_identity_message">Personal message</string>
+    <string name="network_identity_image">Background image</string>
+    <string name="network_identity_more">MORE ABOUT YOU</string>
+    <string name="network_identity_bullet_old">Upgrade Your PayPal.Me</string>
+    <string name="network_identity_merchant_more">MORE ABOUT YOUR BUSINESS</string>
+
+    <!-- Network Identity first time screen -->
+    <string name="network_identity_first_time_share_title">Share your PayPal.Me link and get paid</string>
+    <string name="network_identity_first_time_share_message">Friends, family, or customers can follow the link, enter any amount and that\'s it. The money\'s usually in your PayPal account in seconds.</string>
+    <string name="network_identity_first_time_share_button">Share your link</string>
+    <string name="network_identity_first_time_profile_title">We\'re improving PayPal.Me</string>
+    <string name="network_identity_first_time_profile_message">Your link now appears in your friends and customers\' PayPal address books - so they can be sure they\'re sending money to the right person. \n\nYou can now add more info to your profile and always be in control of what people see.</string>
+    <string name="network_identity_first_time_profile_upgrade">Upgrade PayPal.Me</string>
+    <string name="network_identity_first_time_profile_manage">See and Manage</string>
+    <string name="network_identity_first_time_profile_skip">Skip for now</string>
+
+    <!-- Network Identity toggle -->
+    <string name="network_identity_toggle">paypal.me/%1$s</string>
+    <string name="network_identity_toggle_detail_on">You can receive money through your PayPal.Me link.</string>
+    <string name="network_identity_toggle_detail_off">We\'re sorry, you can\'t use your PayPal.Me link to receive money at the moment.People can still pay you back using the regular Send Money feature.</string>
+    <string name="network_identity_toggle_detail_off_old">We\'re sorry, you can\'t use your PayPal.Me link to receive money at the moment.People can still pay you back using the regular Send Money feature.</string>
+
+    <!-- Network Identity dialog box -->
+    <string name="network_identity_dialog_title">Are you sure?</string>
+    <string name="network_identity_dialog_detail">Your PayPal.Me link will be turned off and you won\'t be able to receive money with it. Your name and photo can still be seen by people you\'ve sent money to and received money from.</string>
+    <string name="network_identity_dialog_detail_old">Your PayPal.Me link can\'t be used to receive money.</string>
+    <string name="network_identity_dialog_positive">Turn Off</string>
+    <string name="network_identity_dialog_negative">Cancel</string>
+    <string name="network_identity_dialog_agree_title">Agree</string>
+    <string name="network_identity_dialog_upgrade_title">Upgrade PayPal.Me</string>
+    <string name="network_identity_upgrade_message"><![CDATA[I agree that my name, photo, and PayPal.Me link can be shown to others to make it easier to find me on PayPal and to transact with me, and I agree to the <a href=\"%1$s\">Terms & Conditions</a> and <a href=\"%2$s\">Privacy Statement</a>.]]></string>
+
+    <!-- Network Identity link type -->
+    <string name="network_identity_link_type_title">What type of payments are you accepting?</string>
+    <string name="network_identity_link_type_personal_description">Let your friends pay you back quickly and easily. It\'s free for both of you when they use their PayPal balance or bank account.</string>
+    <string name="network_identity_link_type_purchase_and_merchant_description"><![CDATA[It\'s free for your customers. You\'ll pay a fee when you receive it. You both get <a href=\"%1$s\">PayPal Purchase Protection</a> on eligible payments.]]></string>
+
+    <!-- Network Identity location -->
+    <string name="network_identity_location_title">Location</string>
+    <string name="network_identity_location_hide_location">Don\'t show your location</string>
+    <string name="network_identity_location_detail">Adding your location to your profile will help people know they\'ve found the right person.</string>
+    <string name="network_identity_location_link_text"><![CDATA[The suggested locations are based on your PayPal primary address. If this is no longer up to date, you can <a href=\"#\">edit your address</a>.]]></string>
+
+    <!-- Network Identity personal message -->
+    <string name="network_identity_personal_message">Personal message</string>
+    <string name="network_identity_personal_message_hint">Say something about yourself or your business that you\'d like to share on your profile.</string>
+    <string name="network_identity_personal_message_next">Next</string>
+
+    <!-- Network Identity profile review -->
+    <string name="network_identity_profile_preview_done">Done</string>
+    <string name="network_identity_profile_preview_share">Share It</string>
+    <string name="network_identity_profile_preview_page_header">Review your profile</string>
+
+    <!-- Network Identity others -->
+    <string name="network_identity_profile_terms_link"><![CDATA[See <a href=\"%1$s\">terms and conditions</a>.]]></string>
+    <string name="network_identity_terms_and_conditions">Terms and Conditions</string>
+    <string name="network_identity_privacy_policy">Privacy Statement</string>
+    <string name="network_identity_purchase_protection">Buyer Protection</string>
+
+
+    <!-- Android 'App Notification' Settings (Android Oreo+)-->
+    <string name="notification_channel_name_default">All notifications</string>
+
+    <!-- Early Release Push Notification -->
+    <string name="early_release_push_notification_title">Your %%1$s transfer</string>
+    <string name="early_release_push_notification_success_content">Thanks for confirming your identity. Your %%1$s transfer is all set. It should arrive in your bank account within 1 business day.</string>
+    <string name="early_release_push_notification_fail_content">We couldn\'t confirm your identity. We\'re continuing to review your %%1$s transfer, and it should be released to your bank account within the next %%2$s hours.</string>
+</resources>
